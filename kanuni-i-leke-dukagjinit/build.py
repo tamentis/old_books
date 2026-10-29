@@ -60,7 +60,15 @@ def to_html(text, lang):
             }
         },
     )
-    return md.convert(text)
+    body = md.convert(text)
+    if lang == "fr":
+        # French typography: narrow no-break space before ; : ! ? (text only, not tags).
+        body = re.sub(
+            r">[^<]+<",
+            lambda m: re.sub(r" ([;:!?])", "&#8239;\\1", m.group(0)),
+            body,
+        )
+    return body
 
 
 HEADING_RE = re.compile(r"^(#{2,4}) (.*?) \{#([a-z0-9-]+)\}$", re.M)
@@ -129,7 +137,8 @@ def render(lang, title, languages, content):
 
 def build_lang(lang):
     src = ROOT / lang
-    kanuni = (src / "kanuni.md").read_text()
+    # The title line duplicates the one in front.md.
+    kanuni = re.sub(r"\A# .*\n", "", (src / "kanuni.md").read_text())
     front = (src / "front.md").read_text() if (src / "front.md").exists() else ""
     glossary = (src / "glossary.md").read_text() if (src / "glossary.md").exists() else ""
 

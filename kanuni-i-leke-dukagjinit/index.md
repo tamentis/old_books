@@ -6,3 +6,4 @@ The customary law of the highlands of northern Albania, collected by Shtjefën G
 
 - [**Shqip**](sq/) — Teksti origjinal i vitit 1933
 - [**English**](en/) — Translation of the 1933 text, with a glossary
+- [**Français**](fr/) — Traduction du texte de 1933, avec un glossaire

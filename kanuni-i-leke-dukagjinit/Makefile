@@ -1,6 +1,6 @@
 PYTHON ?= ../venv/bin/python
 
-all: index.html sq/index.html en/index.html
+all: index.html sq/index.html en/index.html fr/index.html
 
 index.html: index.md template.html build.py
 	$(PYTHON) build.py index

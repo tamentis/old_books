@@ -1,6 +1,6 @@
 # Translation notes — Kanuni i Lekë Dukagjinit
 
-Notes on the English translation in `kanuni_i_leke_dukagjinit_english.md`, made from `kanuni_i_leke_dukagjinit.md`. Updated as each book is translated.
+Notes on the English translation in `en/kanuni.md`, made from `sq/kanuni.md`. Updated as each book is translated.
 
 ## Status
 
@@ -28,7 +28,7 @@ The translation is my own reading of the archaic Gheg text. It has not been chec
 - The Markdown was converted from `~/Downloads/KANUNI-I-LEKE-DUKAGJINIT.pdf` (106 pages). The `kanuni_i_leke_dukagjinit.pdf` in the project folder is an empty directory, not a file.
 - The PDF has a real text layer, so no OCR was run. The text in it is itself a faulty transcription of the 1933 Shkodër edition (published at www.lezha.net).
 - The conversion matches the PDF text character for character, except for one rejoined hyphenated word ("kum-/bonë" → "kumbonë" in §153) and the dropped page numbers.
-- The cover image from page 1 is saved as `kanuni_i_leke_dukagjinit_cover.jpeg`.
+- The cover image from page 1 is saved as `cover.jpeg`.
 
 ## Conventions
 

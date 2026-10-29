@@ -1,16 +1,12 @@
 # THE KANUN OF LEKË DUKAGJINI
 
-• The Kanun of Lekë Dukagjini, the work of Shtjefën Gjeçovi, republished according to the 1933 edition printed in Shkodër
+## BOOK ONE — THE CHURCH {#book-1}
 
-> *Translator's note: English translation of `kanuni_i_leke_dukagjinit.md` (Gheg Albanian). Words in [square brackets] are added for clarity or mark places where the source text is corrupt. A few customary terms are kept or glossed on first use: **Banner** (Bajrak, the territorial-military unit of several villages), **precinct** (hija, literally the "shade" of the church), **protection** (ndore, the guarantee of safety a host or patron extends), **blood** (gjak, the blood feud), **grosh** (a coin), **oka** (a weight of about 1.3 kg).*
+### Article One — CIVIL PART {#article-1}
 
-## BOOK ONE — THE CHURCH
+### CHAPTER ONE — The Precinct of the Church, the Graves, the Estates and Property of the Church, the Parish Priest, the Servant, the Workers of the Church {#chapter-1}
 
-### Article One — CIVIL PART
-
-### CHAPTER ONE — The Precinct of the Church, the Graves, the Estates and Property of the Church, the Parish Priest, the Servant, the Workers of the Church
-
-#### SECTION ONE — The Precinct of the Church.
+#### SECTION ONE — The Precinct of the Church. {#section-1}
 
 **§ 1.** Meaning of the precinct of the Church
 
@@ -22,13 +18,13 @@ a) the Church; b) the dwelling (cell) of the parish priest.
 
 "The Church counts as one hearth in the parish."
 
-1.- The Church has the right to own property, whether livestock or land and houses, inside and outside the parish.
+1\. The Church has the right to own property, whether livestock or land and houses, inside and outside the parish.
 
-2.- The Church has a share in the mountain, in the winter pasture, in the water and in the mill of the parish commons.
+2\. The Church has a share in the mountain, in the winter pasture, in the water and in the mill of the parish commons.
 
-3.- The Church must be given a share of the fines of the parish.
+3\. The Church must be given a share of the fines of the parish.
 
-4.- The Church has the right to buy and to sell, and also to receive and to keep the gifts that come to it from the generosity of benefactors, and to dispose of them as it sees fit.
+4\. The Church has the right to buy and to sell, and also to receive and to keep the gifts that come to it from the generosity of benefactors, and to dispose of them as it sees fit.
 
 **§ 3.** The immunity of the Church.
 
@@ -36,13 +32,13 @@ a) the Church; b) the dwelling (cell) of the parish priest.
 
 "The Church gives a pledge to no one."
 
-1.- The Church stands under the rule of the Head of the Faith and not under the law of the Kanun: therefore the Kanun cannot lay any burden on the Church, but only has the duty to defend it when it needs its help.
+1\. The Church stands under the rule of the Head of the Faith and not under the law of the Kanun: therefore the Kanun cannot lay any burden on the Church, but only has the duty to defend it when it needs its help.
 
-2.- Should any dispute arise between the Church and the parish, the parish cannot demand a pledge from the Church; it shall instead bring its complaint to the Head of the Faith – the Bishop – and both the Church and the parish shall abide by his judgment without a word.
+2\. Should any dispute arise between the Church and the parish, the parish cannot demand a pledge from the Church; it shall instead bring its complaint to the Head of the Faith – the Bishop – and both the Church and the parish shall abide by his judgment without a word.
 
-3.- For any failing the Church may commit in the eyes of the parish, no fine can be taken from the Church; it is only obliged to make good the damages that have been caused on its account.
+3\. For any failing the Church may commit in the eyes of the parish, no fine can be taken from the Church; it is only obliged to make good the damages that have been caused on its account.
 
-4.- The Church pays no dues, does not go out to war, does not provide bread for the young men of the Banner, and does not do forced labour in the works of the parish. Only when the parish decides to carry out some work to maintain or to increase the wealth of the local commons, in which the Church has a share, is the Church then bound to pay money, to provide bread and to send a worker to the work, in the manner in which the parish has apportioned it to everyone by hearth.
+4\. The Church pays no dues, does not go out to war, does not provide bread for the young men of the Banner, and does not do forced labour in the works of the parish. Only when the parish decides to carry out some work to maintain or to increase the wealth of the local commons, in which the Church has a share, is the Church then bound to pay money, to provide bread and to send a worker to the work, in the manner in which the parish has apportioned it to everyone by hearth.
 
 **§ 4.** The honour of the Church.
 
@@ -54,57 +50,61 @@ a) the Church; b) the dwelling (cell) of the parish priest.
 
 "The church, the mill, the smithy and the shop cannot have a guest violated." [That is, harm done to someone there does not count as an offence against a host.]
 
-1.- Whoever violates the Church owes a fine a) to the Church, b) to the parish, c) to the Banner (Bajrak).- He violates the Church who quarrels with, insults or threatens someone, or who beats or kills someone, within the precinct of the church.
+1\. Whoever violates the Church owes a fine a) to the Church, b) to the parish, c) to the Banner (Bajrak).- He violates the Church who quarrels with, insults or threatens someone, or who beats or kills someone, within the precinct of the church.
 
-2.- The fine is taken from the offender by the parish and not by the Church; for the Church has neither sword nor rope.
+2\. The fine is taken from the offender by the parish and not by the Church; for the Church has neither sword nor rope.
 
-3.- Whoever is killed or beaten or in any way whatever dishonoured by someone while entering or leaving the precinct of the church leaves no shame upon the Church; for the Church cannot have a guest violated. 4.- But if a gun is fired outside the precinct of the church and someone places himself under the protection of the Church, then he is recognised as the guest of the Church; and if anyone violates the protection of the Church, the parish is bound to restore its honour. (Vinctum, si aedes ejus (Dialis Flaminis) intrierit, solvit necessum est.- Gellius, b. 10. c. 15.-)
+3\. Whoever is killed or beaten or in any way whatever dishonoured by someone while entering or leaving the precinct of the church leaves no shame upon the Church; for the Church cannot have a guest violated.
 
-#### SECTION TWO — The Graves.
+4\. But if a gun is fired outside the precinct of the church and someone places himself under the protection of the Church, then he is recognised as the guest of the Church; and if anyone violates the protection of the Church, the parish is bound to restore its honour. (Vinctum, si aedes ejus (Dialis Flaminis) intrierit, solvit necessum est.- Gellius, b. 10. c. 15.-)
 
-**§ 5.-** 1.- Into the graves of one brotherhood or of one clan the dead or the slain of another brotherhood or clan does not enter.- If anyone does this without the leave of the brotherhood or clan to which the graves belong, the Kanun obliges him to remove the dead man from the grave that is not his.
+#### SECTION TWO — The Graves. {#section-2}
 
-2.- If a household that has neither brotherhood nor clan comes to settle in the village with the consent of the village, its burial place is assigned among those of the parish, and it is obliged to buy candles or some other thing for the altar.
+**§ 5.** 1. Into the graves of one brotherhood or of one clan the dead or the slain of another brotherhood or clan does not enter.- If anyone does this without the leave of the brotherhood or clan to which the graves belong, the Kanun obliges him to remove the dead man from the grave that is not his.
 
-3.- Whoever quarrels with, insults or threatens someone, and whoever kills or beats someone among the graves, incurs a fine as for the precinct of the church.
+2\. If a household that has neither brotherhood nor clan comes to settle in the village with the consent of the village, its burial place is assigned among those of the parish, and it is obliged to buy candles or some other thing for the altar.
 
-#### SECTION THREE — The Estates and Property of the Church.
+3\. Whoever quarrels with, insults or threatens someone, and whoever kills or beats someone among the graves, incurs a fine as for the precinct of the church.
+
+#### SECTION THREE — The Estates and Property of the Church. {#section-3}
 
 **§ 6.** The estates and property of the Church are inviolable.
 
-1.- The estates and property of the Church are inviolable and no one may lay a hand on them.
+1\. The estates and property of the Church are inviolable and no one may lay a hand on them.
 
-2.- The estates and property of the Church are under the guard of the priest of the church and of the parish.
+2\. The estates and property of the Church are under the guard of the priest of the church and of the parish.
 
-3.- Whoever dares to encroach on the estates and property of the Church is called to order by the parish. [The source repeats here, by mistake, the end of the next item.]
+3\. Whoever dares to encroach on the estates and property of the Church is called to order by the parish. [The source repeats here, by mistake, the end of the next item.]
 
-4.- When someone does damage to the Church in its estates and property, the parish assesses the damage, which the one who caused it shall pay.
+4\. When someone does damage to the Church in its estates and property, the parish assesses the damage, which the one who caused it shall pay.
 
-5.- Whoever steals the property of the Church, besides having to return that property according to the kanun of the place where the church stands, also has the duty to pay a fine to the Church for the honour taken, and a fine to the parish for the protection violated, because the Church is under the protection of the parish.
+5\. Whoever steals the property of the Church, besides having to return that property according to the kanun of the place where the church stands, also has the duty to pay a fine to the Church for the honour taken, and a fine to the parish for the protection violated, because the Church is under the protection of the parish.
 
-6.- When the thief acknowledges his fault and, before the outrage he has done to the Church becomes known, gives himself up to the Priest of the Parish, returning the stolen property, he owes no fine at all: the Priest has the right to pardon him.
+6\. When the thief acknowledges his fault and, before the outrage he has done to the Church becomes known, gives himself up to the Priest of the Parish, returning the stolen property, he owes no fine at all: the Priest has the right to pardon him.
 
-7.- If the thief gives himself up to the Priest after the latter has proclaimed the theft in the parish, the parish has the right to take the fine from him both for the locality and for the Church, even though the parish priest has pardoned the offence, together with all the stolen property.
+7\. If the thief gives himself up to the Priest after the latter has proclaimed the theft in the parish, the parish has the right to take the fine from him both for the locality and for the Church, even though the parish priest has pardoned the offence, together with all the stolen property.
 
 **§ 7.** The administration of the property of the Church
 
-1.- The estates and property of the Church are administered by the Parish Priest, and the parish has no right to demand an account from the Parish Priest for the use of the income drawn from the property of the Church.
+1\. The estates and property of the Church are administered by the Parish Priest, and the parish has no right to demand an account from the Parish Priest for the use of the income drawn from the property of the Church.
 
-#### SECTION FOUR — The Priest of the Parish, or Parish Priest.
+#### SECTION FOUR — The Priest of the Parish, or Parish Priest. {#section-4}
 
 **§ 8.** The appointment of the parish priest.
 
-1.- The Parish Priest is placed in the Parish by the Bishop, and the Bishop alone may remove him from the Parish.
+1\. The Parish Priest is placed in the Parish by the Bishop, and the Bishop alone may remove him from the Parish.
 
 **§ 9.** The rights and duties of the Parish Priest.
 
-1.- The Parish Priest has the right to teach and to admonish the Parish and to perform for it the offices of the Faith in whatever way the care of souls requires, and no one of the parish has the power to interfere in the duties of the Priesthood.
+1\. The Parish Priest has the right to teach and to admonish the Parish and to perform for it the offices of the Faith in whatever way the care of souls requires, and no one of the parish has the power to interfere in the duties of the Priesthood.
 
-2.- The Parish Priest, for the service he renders to the Parish, has the right to receive the tithes of the Church, according to the Kanun of the place where the church stands.
+2\. The Parish Priest, for the service he renders to the Parish, has the right to receive the tithes of the Church, according to the Kanun of the place where the church stands.
 
-3.- The Parish has no duty to bring the tithes to the Parish Priest's door; the Parish Priest shall collect them, and shall do so with his own workers.
+3\. The Parish has no duty to bring the tithes to the Parish Priest's door; the Parish Priest shall collect them, and shall do so with his own workers.
 
-4.- The Parish Priest has the right to take the income of the property of the Church, both of the lands and of the livestock, and no one can call him to account for it except his own Superior. 5.- The Parish Priest has the duty to render the Parish all the spiritual and religious service that the law of the Church lays upon him; and in addition certain services such as: blessing the houses, saying Mass once in a while during the year at graveyards far from the church of the Parish, etc.
+4\. The Parish Priest has the right to take the income of the property of the Church, both of the lands and of the livestock, and no one can call him to account for it except his own Superior.
+
+5\. The Parish Priest has the duty to render the Parish all the spiritual and religious service that the law of the Church lays upon him; and in addition certain services such as: blessing the houses, saying Mass once in a while during the year at graveyards far from the church of the Parish, etc.
 
 **§ 10.** The person of the Parish Priest is inviolable.
 
@@ -114,49 +114,49 @@ a) the Church; b) the dwelling (cell) of the parish priest.
 
 "The priest is not put to the oath."
 
-1.- Whoever speaks against the Parish Priest, or insults and snarls at him, or lays a hand on him, beats him or kills him, shall answer for it to the Parish in the manner of the Kanun of the place. The Parish is bound to demand satisfaction for the honour of its Parish Priest.
+1\. Whoever speaks against the Parish Priest, or insults and snarls at him, or lays a hand on him, beats him or kills him, shall answer for it to the Parish in the manner of the Kanun of the place. The Parish is bound to demand satisfaction for the honour of its Parish Priest.
 
-2.- If someone kills the Parish Priest, the murderer is pursued by the Parish, the Banner and the house of the slain man.
+2\. If someone kills the Parish Priest, the murderer is pursued by the Parish, the Banner and the house of the slain man.
 
-3.- If the killer is slain by the Parish or by the Banner, the house of the Priest may not kill anyone else from the house of the murderer; for otherwise it brings blood upon its own house.
+3\. If the killer is slain by the Parish or by the Banner, the house of the Priest may not kill anyone else from the house of the murderer; for otherwise it brings blood upon its own house.
 
-4.- If the Priest kills someone, neither the Church nor the Priest is fined, and the Priest does not fall into blood: the blood falls upon the house of the Priest.
+4\. If the Priest kills someone, neither the Church nor the Priest is fined, and the Priest does not fall into blood: the blood falls upon the house of the Priest.
 
-5.- Rarely and almost never is the Priest put to the oath 1) and only for a very grave matter.
+5\. Rarely and almost never is the Priest put to the oath 1) and only for a very grave matter.
 
-6.- Should it happen that the Priest is put to the oath, whether to clear the locality or as a juror, he alone shall be counted and taken as twenty-four persons.
+6\. Should it happen that the Priest is put to the oath, whether to clear the locality or as a juror, he alone shall be counted and taken as twenty-four persons.
 
-7.- When the Priest takes an oath, since he is held to be a just man and one consecrated to eternal Justice, it is not required that he touch the Gospel with his hand; it is enough that he pronounce the words of the oath before the Gospel.
+7\. When the Priest takes an oath, since he is held to be a just man and one consecrated to eternal Justice, it is not required that he touch the Gospel with his hand; it is enough that he pronounce the words of the oath before the Gospel.
 
-8.- If the Parish Priest incurs a fine, the Kanun does not touch him: it is the business of his Superior.
+8\. If the Parish Priest incurs a fine, the Kanun does not touch him: it is the business of his Superior.
 
-9.- If the offence of the Priest against the Parish is too grave, the Priest shall submit to the judgment of the Kanun. The Superior sends another Priest to lay down the pledge before the Kanun in the name of the Parish Priest.
+9\. If the offence of the Priest against the Parish is too grave, the Priest shall submit to the judgment of the Kanun. The Superior sends another Priest to lay down the pledge before the Kanun in the name of the Parish Priest.
 
-10.- The Priest of the Parish may raise his hand against someone and even strike him, and for all that he brings no shame on the one who is beaten, nor does he himself become answerable before the Kanun.
+10\. The Priest of the Parish may raise his hand against someone and even strike him, and for all that he brings no shame on the one who is beaten, nor does he himself become answerable before the Kanun.
 
-#### SECTION FIVE — The Servant of the Church.
+#### SECTION FIVE — The Servant of the Church. {#section-5}
 
-**§ 11.-** 1.- The servant of the Church is free to go about his work unhindered.
+**§ 11.** 1. The servant of the Church is free to go about his work unhindered.
 
-2.- Wherever the servant of the Church goes, and with whatever message he knocks at someone's door by order of his master, he goes and speaks in the name of the Parish Priest.
+2\. Wherever the servant of the Church goes, and with whatever message he knocks at someone's door by order of his master, he goes and speaks in the name of the Parish Priest.
 
-3.- If anyone molests the servant of the Church by word or by deed, he is held to be molesting the Parish Priest, and he incurs the fine of the Church according to the Kanun.
+3\. If anyone molests the servant of the Church by word or by deed, he is held to be molesting the Parish Priest, and he incurs the fine of the Church according to the Kanun.
 
-4.- The fine that is taken on account of the servant of the Church does not belong to the servant, but to the Church and the village.
+4\. The fine that is taken on account of the servant of the Church does not belong to the servant, but to the Church and the village.
 
-5.- If someone kills the servant of the Church, the killer, if he is of the local Parish, is pursued only by the house of the slain man; but if he is of another village, then he is also pursued by the Parish in which the servant was killed.
+5\. If someone kills the servant of the Church, the killer, if he is of the local Parish, is pursued only by the house of the slain man; but if he is of another village, then he is also pursued by the Parish in which the servant was killed.
 
-#### SECTION SIX — The Workers of the Church.
+#### SECTION SIX — The Workers of the Church. {#section-6}
 
 **§ 12.** – 1.- Whoever harasses the workers of the Church incurs the fine of the Parish.
 
-2.- However many workers there may be at the work of the Church, the one who harasses them pays only one fine, but a heavier one.
+2\. However many workers there may be at the work of the Church, the one who harasses them pays only one fine, but a heavier one.
 
-3.- The fine that is taken for harassing the workers of the Church is divided between the Church and the workers.
+3\. The fine that is taken for harassing the workers of the Church is divided between the Church and the workers.
 
-### Article Two — PENAL PART
+### Article Two — PENAL PART {#article-2}
 
-#### SECTION SEVEN — The Nature of Punishments.
+#### SECTION SEVEN — The Nature of Punishments. {#section-7}
 
 **§ 13.** Meaning of punishment.
 
@@ -186,39 +186,45 @@ e) A fine in livestock;
 
 f) A fine in money.
 
+<div class="note" markdown="1">
+
 Note: according to the kanun a fine in money may be paid in certain goods, reckoning the oka of grain at 1 grosh, the oka of raki at 5 grosh, and a plough-ox at 400 grosh.
 
-#### SECTION EIGHT — The Fixing of the Punishment According to the Kind of Offence.
+</div>
 
-**§ 17.-** 1.- Whoever breaks into the church is burned out and cast out of the Banner with all his household. The offender – the perpetrator – is executed by a volley of the Banner, and his blood goes unavenged. The brotherhood and the nearest clan of the wrongdoer buy his land, and its price goes to the church that was broken into.
+#### SECTION EIGHT — The Fixing of the Punishment According to the Kind of Offence. {#section-8}
 
-2.- Whoever steals another's property and goes and hides it in the church, without the knowledge of the Parish Priest, owes the Church a fine of 1000 grosh for the honour taken, and a fine of 100 rams and 1 ox to the Banner, besides the property, which he shall return to its owner in the manner of the Kanun.
+**§ 17.** 1. Whoever breaks into the church is burned out and cast out of the Banner with all his household. The offender – the perpetrator – is executed by a volley of the Banner, and his blood goes unavenged. The brotherhood and the nearest clan of the wrongdoer buy his land, and its price goes to the church that was broken into.
 
-3.- Whoever steals the livestock of the Church [a few words are corrupt in the source] shall pay two for one, as to anyone else.
+2\. Whoever steals another's property and goes and hides it in the church, without the knowledge of the Parish Priest, owes the Church a fine of 1000 grosh for the honour taken, and a fine of 100 rams and 1 ox to the Banner, besides the property, which he shall return to its owner in the manner of the Kanun.
 
-4.- Whoever steals in the cell or dwelling of the Parish Priest shall pay two for one for the stolen property, 100 grosh to the Church for the honour taken, and a fine of 100 rams and 1 ox to the Banner. 5.- He who insults or speaks against the Priest of the Parish before the people owes a fine of 100 grosh to the Church, and a fine of 100 rams and 1 ox to the Banner.
+3\. Whoever steals the livestock of the Church [a few words are corrupt in the source] shall pay two for one, as to anyone else.
 
-6.- He who threatens or snarls at the Parish Priest shall pay a fine of 10 rams.
+4\. Whoever steals in the cell or dwelling of the Parish Priest shall pay two for one for the stolen property, 100 grosh to the Church for the honour taken, and a fine of 100 rams and 1 ox to the Banner.
 
-7.- Whoever slanders the Priest in a grave matter touching his honour has his house burned and owes a fine of 100 rams and 1 ox to the Banner.
+5\. He who insults or speaks against the Priest of the Parish before the people owes a fine of 100 grosh to the Church, and a fine of 100 rams and 1 ox to the Banner.
 
-8.- If someone lays a hand on the Priest, beats him, pushes him or spits on him, he is burned out and cast out of the land, and his land is left to grass (fallow) for some years.
+6\. He who threatens or snarls at the Parish Priest shall pay a fine of 10 rams.
 
-9.- He who kills the Priest is executed by a volley of the Banner and his blood is lost. In addition his house is burned, his land is left to grass, and his fruit trees, vineyards and gardens are cut down and laid waste. His land, his estates and what remains of his goods stay with the Church; but the brotherhood may redeem them with money.
+7\. Whoever slanders the Priest in a grave matter touching his honour has his house burned and owes a fine of 100 rams and 1 ox to the Banner.
 
-10.- If someone speaks ill to the servant of the Church, or harasses him, he shall give a fine of 10 rams to the Banner, or even more, according to the gravity of the offence.
+8\. If someone lays a hand on the Priest, beats him, pushes him or spits on him, he is burned out and cast out of the land, and his land is left to grass (fallow) for some years.
 
-11.- He who kills the Servant of the Church, if the killer is of the village, has his house burned and 100 rams and 1 ox are taken from him as a fine.
+9\. He who kills the Priest is executed by a volley of the Banner and his blood is lost. In addition his house is burned, his land is left to grass, and his fruit trees, vineyards and gardens are cut down and laid waste. His land, his estates and what remains of his goods stay with the Church; but the brotherhood may redeem them with money.
 
-12.- If someone harasses the workers of the Church by word or by deed, the offender shall pay the fine of 10 rams.
+10\. If someone speaks ill to the servant of the Church, or harasses him, he shall give a fine of 10 rams to the Banner, or even more, according to the gravity of the offence.
 
-13.- As for him who does not submit to the punishment of the Church and of the Kanun, the Banner shall gather in a body at his house and shall take from him everything in his fold.
+11\. He who kills the Servant of the Church, if the killer is of the village, has his house burned and 100 rams and 1 ox are taken from him as a fine.
 
-## BOOK TWO — THE FAMILY
+12\. If someone harasses the workers of the Church by word or by deed, the offender shall pay the fine of 10 rams.
 
-### CHAPTER TWO — THE STRUCTURE OF THE FAMILY.
+13\. As for him who does not submit to the punishment of the Church and of the Kanun, the Banner shall gather in a body at his house and shall take from him everything in his fold.
 
-#### SECTION NINE — The Family Considered in Itself.
+## BOOK TWO — THE FAMILY {#book-2}
+
+### CHAPTER TWO — THE STRUCTURE OF THE FAMILY. {#chapter-2}
+
+#### SECTION NINE — The Family Considered in Itself. {#section-9}
 
 **§ 18.** Definition of the family.
 
@@ -238,7 +244,9 @@ The head of the house has the right:
 
 1\) to sit in the place of honour in his own house, even though there are others older than he in the house;
 
-2\) over his own weapons, even if they are worth a hundred purses; over his saddle horse; over his own bedding and covers; over the coffee utensils; and these things are not included even by the kanun of the division [of the household]; 3) over the earnings of the people of the house, whether from wages or from gifts;
+2\) over his own weapons, even if they are worth a hundred purses; over his saddle horse; over his own bedding and covers; over the coffee utensils; and these things are not included even by the kanun of the division [of the household];
+
+3\) over the earnings of the people of the house, whether from wages or from gifts;
 
 4\) to buy, to sell and to exchange land, such as fields, meadows, enclosures, woodlots, the turn at the irrigation channel, livestock and copperware;
 
@@ -278,7 +286,9 @@ d) Separating the stubborn one from the house with the share that belongs to him
 
 5\) To act with good sense and prudence inside and outside the house, so that ruin and extinction do not overtake the house;
 
-6\) To see to the clothing and footwear of the people of the house out of the earnings of the house; 7) To keep to the path of justice in the house, and not to take the side of one more than of another;
+6\) To see to the clothing and footwear of the people of the house out of the earnings of the house;
+
+7\) To keep to the path of justice in the house, and not to take the side of one more than of another;
 
 8\) To buy weapons for the boys, when he sees that they are ready for them.
 
@@ -338,7 +348,7 @@ The people of the house have the right:
 
 8\) The women are bound to work for the house; if time is left over, once they are free of the work of the house, they may do handiwork of their own.
 
-#### SECTION TEN — The Family Considered in the Village and in the Banner.
+#### SECTION TEN — The Family Considered in the Village and in the Banner. {#section-10}
 
 **§ 26.** The right of the Family.
 
@@ -376,9 +386,9 @@ b) in the Banner:
 
 4\) He shall go out to war with the Banner.
 
-## BOOK THREE — MARRIAGE
+## BOOK THREE — MARRIAGE {#book-3}
 
-#### SECTION ELEVEN — The Definition and the Kinds of Marriage.
+#### SECTION ELEVEN — The Definition and the Kinds of Marriage. {#section-11}
 
 **§ 28.** Definition of Marriage in the Kanun.
 
@@ -394,7 +404,7 @@ c) The abducted woman or girl, irregular in the eyes of the Faith and the kanun;
 
 d) Trial marriage, against the Faith and the kanun.
 
-#### SECTION TWELVE — The Right of the Young Man and of the Girl.
+#### SECTION TWELVE — The Right of the Young Man and of the Girl. {#section-12}
 
 **§ 30.** The right of the young man.
 
@@ -422,7 +432,7 @@ b) to interfere in the matchmaking or in the betrothal;
 
 c) nor in the shoes, nor in the clothes.
 
-#### SECTION THIRTEEN — The Duties of the Husband and of the Wife.
+#### SECTION THIRTEEN — The Duties of the Husband and of the Wife. {#section-13}
 
 **§ 32.** The duties of the husband towards the wife.
 
@@ -454,7 +464,7 @@ g) not to interfere in the betrothal of her sons and daughters.
 
 The wife has the right to demand from her husband her maintenance, clothing and footwear.
 
-#### SECTION FOURTEEN — The Right of the Widower and of the Widow.
+#### SECTION FOURTEEN — The Right of the Widower and of the Widow. {#section-14}
 
 **§ 35.** The right of the widower.
 
@@ -472,9 +482,9 @@ b) to choose as her husband the one who pleases her eye;
 
 c) to point out the matchmaker who is to bring her the token.
 
-### CHAPTER THREE — MATCHMAKING. BETROTHAL
+### CHAPTER THREE — MATCHMAKING. BETROTHAL {#chapter-3}
 
-#### SECTION FIFTEEN — Matchmaking.
+#### SECTION FIFTEEN — Matchmaking. {#section-15}
 
 **§ 37.** Definition of the matchmaker.
 
@@ -484,17 +494,21 @@ A matchmaker is the one who strives to put in a good word with the girl's parent
 
 1\. The matchmaker is the intermediary between the groom and the bride (between the young man and the girl), so that neither side goes back on its word.
 
-2\. The matchmaker has a right to the matchmaker's 50 grosh, "for shoes", fixed by the kanun. 3. The matchmaker's shoes fall due on the day the bride is taken.
+2\. The matchmaker has a right to the matchmaker's 50 grosh, "for shoes", fixed by the kanun.
+
+3\. The matchmaker's shoes fall due on the day the bride is taken.
 
 4\. The matchmaker is found either by the girl's house or by the young man's house.
 
 5\. The matchmaker's shoes are always paid for by the groom's house, even if the matchmaker was appointed by the bride's house.
 
-6\. The matchmaker has the right to speak for the girl's parents as well as for the young man's parents. 7. The matchmaker's obligation is to go about bringing them to an understanding, and to carry the money, together with the groom's father or brother, to the girl's parents.
+6\. The matchmaker has the right to speak for the girl's parents as well as for the young man's parents.
+
+7\. The matchmaker's obligation is to go about bringing them to an understanding, and to carry the money, together with the groom's father or brother, to the girl's parents.
 
 8\. The matchmaker has the right to take part in every matter between the young man's parents and the girl's, up to the day of the marriage.
 
-#### SECTION SIXTEEN — Betrothal
+#### SECTION SIXTEEN — Betrothal {#section-16}
 
 **§ 39.** The impediments to marriage in the Kanun.
 
@@ -528,7 +542,7 @@ On entering, the matchmaker shall stir the fire before asking for the girl; when
 
 A girl who has been abducted or has run away, should she find a husband, cannot be adorned as a bride; she shall go as a maiden – in a maiden's clothes – for the reason that she was taken and went outside the kanun, without a matchmaker.
 
-#### SECTION SEVENTEEN — The Token.
+#### SECTION SEVENTEEN — The Token. {#section-17}
 
 "The token, until you renounce it, makes the person yours."
 
@@ -558,7 +572,7 @@ On the death of the groom, the kanun frees the girl, and, if she wishes, she may
 
 If the girl refuses to go to the husband who betrothed her, they shall give her to him even by force, with "a cartridge on her back"; and if he catches sight of the girl running away, he kills her with her parents' cartridge, and the girl's blood goes unavenged, for the reason that he killed her with their cartridge.
 
-#### SECTION EIGHTEEN.
+#### SECTION EIGHTEEN. {#section-18}
 
 "The fixing of the day." – The appointed day.
 
@@ -574,13 +588,13 @@ The way is not barred to the wedding escorts even if the groom's parents or the 
 
 With the dead in the house, the wedding escorts shall set out; the bride enters the house, the dead leaves the house. On that side let there be lamenting, on this side singing. (This is said to show that not even death can stop the wedding escorts on this day, for as to singing, there is no singing.)
 
-#### SECTION NINETEEN — The Price that Was Given and Is Given for Women.
+#### SECTION NINETEEN — The Price that Was Given and Is Given for Women. {#section-19}
 
 The price that used to be given for girls or women, fifty years ago and before, consisted of 50, 100, 200 up to 400 grosh.
 
 The price under the more recent kanun consists of 1500 grosh, as much as the blood of a woman is worth.
 
-#### SECTION TWENTY — The Inheritance of the Albanian Woman.
+#### SECTION TWENTY — The Inheritance of the Albanian Woman. {#section-20}
 
 The Albanian woman has no inheritance of any kind from her parents, neither in property nor in the house – the kanun regards the woman as a superfluity in the house.
 
@@ -588,9 +602,9 @@ The parents do not concern themselves with a dowry or with anything at all for t
 
 The parents of the young man who has betrothed the girl shall see to everything that is needed for her marriage.
 
-### CHAPTER FOUR — THE WEDDING
+### CHAPTER FOUR — THE WEDDING {#chapter-4}
 
-#### SECTION TWENTY-ONE — The Preparation of the Wedding in the Kanun.
+#### SECTION TWENTY-ONE — The Preparation of the Wedding in the Kanun. {#section-21}
 
 **§ 45.** For the wedding there shall be prepared:
 
@@ -614,7 +628,11 @@ i) 3 oka of olive oil;
 
 j) 70 oka of raki.
 
+<div class="note" markdown="1">
+
 Note: in earlier times there was wine in place of raki.
+
+</div>
 
 **§ 46.** In a wedding of the Kanun there take part:
 
@@ -664,7 +682,7 @@ c) On Saturday morning go the escorts who are fellow villagers.
 
 On Saturday, when the wedding escorts have set out, the fattened animal of the wedding shall be slaughtered.
 
-#### SECTION TWENTY-TWO — The Leadership of the Wedding Escorts.
+#### SECTION TWENTY-TWO — The Leadership of the Wedding Escorts. {#section-22}
 
 **§ 50.** "The leadership of the wedding escorts is sought and asked of him alone to whom it belongs; there is no man [else] who can lead." [The source is corrupt here.]
 
@@ -716,7 +734,7 @@ Last of all shall go the groom's father or brother, leading a horse by the hand.
 
 The wedding escorts, as they set out for the bride, shall each fire one shot in the groom's yard.
 
-#### SECTION TWENTY-THREE
+#### SECTION TWENTY-THREE {#section-23}
 
 "The wedding escorts, without or with the bride, and the mourners with the dead, may not pass by anyone's door, unless it is the path or the road of the village or the highway."
 
@@ -730,7 +748,7 @@ If anyone, whether wedding escorts or mourners with the dead, should make bold t
 
 Where they have happened to push on by force, it has come about that they became companions of the dead man, and that the [black] kerchief of mourning was put on the bride's head.
 
-#### SECTION TWENTY-FOUR.
+#### SECTION TWENTY-FOUR. {#section-24}
 
 "Let the local wedding escort yield the road to the escort who is a friend [from outside]."
 
@@ -744,7 +762,7 @@ If I meet wedding escorts who are friends [from outside] in my village or in my 
 
 If two parties of wedding escorts meet in a village or in a Banner that is not their own, the kanun of duty is that both the one party and the other step aside, and part with honour and without a word.
 
-#### SECTION TWENTY-FIVE.
+#### SECTION TWENTY-FIVE. {#section-25}
 
 "A wedding escort is a wedding escort, a guest is a guest."
 
@@ -798,9 +816,9 @@ When the meal is finished, the wedding guests shall lay the gifts for the bride 
 
 The gift consists of one grosh per head; it is not kanun to give either more or less.
 
-### CHAPTER FIVE — THE KANUN OF THE BRIDEGROOM.
+### CHAPTER FIVE — THE KANUN OF THE BRIDEGROOM. {#chapter-5}
 
-#### SECTION TWENTY-SIX.
+#### SECTION TWENTY-SIX. {#section-26}
 
 "If the groom dies, the bride's parents are bound to return half of the price to the groom's house."
 
@@ -816,7 +834,7 @@ If the groom dies in the second year too, but leaving a child at the hearthstone
 
 If the groom dies at the end of three years, his parents have nothing left to take from the in-law, for the reason that the latter's daughter has done her service in their house.
 
-#### SECTION TWENTY-SEVEN — The Death of the Bride.
+#### SECTION TWENTY-SEVEN — The Death of the Bride. {#section-27}
 
 **§ 57.** The right of the bride's parents.
 
@@ -824,7 +842,7 @@ If the bride dies at the end of three years after the marriage, without leaving 
 
 If the wife dies leaving a son or a daughter with her husband, her parents have a right to the silver ornaments [one word unclear in the source], but the other things shall remain in the husband's house.
 
-#### SECTION TWENTY-EIGHT.
+#### SECTION TWENTY-EIGHT. {#section-28}
 
 "A woman does not fall into blood." – "A woman throws the blood onto her parents."
 
@@ -840,13 +858,13 @@ If the wife kills her husband, and her brother-in-law rises to kill his sister-i
 
 Just as the parents are bound to answer for every evil deed that their daughter does in her husband's house or to anyone, so too [they receive] the price of her blood.
 
-#### SECTION TWENTY-NINE.
+#### SECTION TWENTY-NINE. {#section-29}
 
 "A woman is a sack for carrying."
 
 The woman is regarded as a skin bag made for bearing as long as she is in her husband's house, for her parents do not renounce their kin; they keep for themselves and upon themselves the responsibility for her, but also the right to demand an account, should any harm come to her.
 
-#### SECTION THIRTY — The Widow.
+#### SECTION THIRTY — The Widow. {#section-30}
 
 A woman who has been left a widow and without children, on separating from her husband's house, takes with her the clothes she brought as a bride and the chest with its lock.
 
@@ -856,7 +874,7 @@ A woman who has been left without a husband and without children, and who, becau
 
 If the widow marries, then she finds her living with her second husband, for the land of her first husband yields no more crops for her.
 
-#### SECTION THIRTY-ONE — The Cut Fringe.
+#### SECTION THIRTY-ONE — The Cut Fringe. {#section-31}
 
 (Putting away one's wife)
 
@@ -878,7 +896,7 @@ The woman who is put away, on leaving her husband's house, has no right to take 
 
 If the woman who is put away has a son at the breast, her husband [a few words unclear in the source] is bound to assign her a place near his household, to give her the boy and to maintain her with clothing, footwear and bread.
 
-#### SECTION THIRTY-TWO — The Woman Without the Crown.
+#### SECTION THIRTY-TWO — The Woman Without the Crown. {#section-32}
 
 He who takes a woman without the crown remains bound in the eyes of the Faith and also of the kanun.
 
@@ -892,9 +910,9 @@ b) he is driven out of the country, and he may not set foot on his own land unti
 
 c) if he has children with the woman without the crown, they are counted as illegitimate and therefore can never become heirs.
 
-### CHAPTER SIX — PARENTS. (Father – Mother – Sons)
+### CHAPTER SIX — PARENTS. (Father – Mother – Sons) {#chapter-6}
 
-#### SECTION THIRTY-THREE — The Father – the Husband.
+#### SECTION THIRTY-THREE — The Father – the Husband. {#section-33}
 
 **§ 58.** The right of the husband over his wife.
 
@@ -928,7 +946,7 @@ c) not to make wills, if he has sons;
 
 d) to leave the inheritance to his sons in equal parts.
 
-#### SECTION THIRTY-FOUR — The Mother – the Wife.
+#### SECTION THIRTY-FOUR — The Mother – the Wife. {#section-34}
 
 **§ 61.** The immunity of the woman.
 
@@ -944,7 +962,7 @@ e) If the husband's kin beat a man's wife, the wife's parents demand satisfactio
 
 f) If the mother is a troublemaker (one who stirs up the house), her son puts his mother out of the house without a share and without goods, except that in the first year he shall give her her daily bread (three loads of grain), and he owes her nothing else.
 
-#### SECTION THIRTY-FIVE — The Sons.
+#### SECTION THIRTY-FIVE — The Sons. {#section-35}
 
 **§ 62.** The duty and obligation of the sons.
 
@@ -982,15 +1000,45 @@ d) If it is the house of the Voivode, the leadership belongs to the first son of
 
 e) If it is that of an Elder of the village, the senior eldership belongs to the son of the first brother.
 
+<div class="note" markdown="1">
+
 Note: As long as the house is undivided, the uncle of the first brother's sons [may act] in the offices of the village and of the Banner; once they divide, neither the uncle nor his sons have a right to interfere in the above-mentioned offices, because these belong to the sons of the first brother.
 
-### CHAPTER SEVEN — THE DIVISION [OF THE HOUSEHOLD].
+</div>
+
+### CHAPTER SEVEN — THE DIVISION [OF THE HOUSEHOLD]. {#chapter-7}
 
 **§ 64.** In the Kanun of the division are included:
 
-1\. The house, building plots and folds. 2. Land: a) fields, b) vineyards, c) meadows, d) enclosures, e) woodlots and groves. 3. The irrigation channel (the turn at the water). 4. The mill. 5. Earnings and expenses. 6. The weapons. 7. Copperware, ironware and farming implements. 8. Household goods – bedding and covers. 9. Livestock: cows, oxen, horses, sheep and goats. 10. The grain and every crop of the field. 11. The bees. 12. Cheese and butter. 13. Wine and raki. 14. The Elders of the division.
+1\. The house, building plots and folds.
 
-**§ 64.** [sic; should be § 65] The house, building plots and folds.
+2\. Land: a) fields, b) vineyards, c) meadows, d) enclosures, e) woodlots and groves.
+
+3\. The irrigation channel (the turn at the water).
+
+4\. The mill.
+
+5\. Earnings and expenses.
+
+6\. The weapons.
+
+7\. Copperware, ironware and farming implements.
+
+8\. Household goods – bedding and covers.
+
+9\. Livestock: cows, oxen, horses, sheep and goats.
+
+10\. The grain and every crop of the field.
+
+11\. The bees.
+
+12\. Cheese and butter.
+
+13\. Wine and raki.
+
+14\. The Elders of the division.
+
+**§ 65.** The house, building plots and folds.
 
 1\. The house, with the land that it has around it, belongs to the youngest brother.
 
@@ -1000,7 +1048,9 @@ Note: As long as the house is undivided, the uncle of the first brother's sons [
 
 1\. The land of the forefathers shall be divided with the measuring rope – per brother.
 
-2\. Land bought by the sons after the death of their parents shall be divided per gun. 3. The middle brother has the right to choose land wherever he wishes.
+2\. Land bought by the sons after the death of their parents shall be divided per gun.
+
+3\. The middle brother has the right to choose land wherever he wishes.
 
 4\. Fields, vineyards, meadows, enclosures, woodlots and groves shall be divided with the measuring rope per brother, as much to one as to the other.
 
@@ -1074,7 +1124,11 @@ Wine and raki, in a word everything that is eaten and drunk, shall be divided pe
 
 3\. The "shoes" [fee] of the Elders of the division shall be paid jointly by the brothers who are dividing.
 
+<div class="note" markdown="1">
+
 Note.
+
+</div>
 
 **§ 79.**
 
@@ -1104,9 +1158,9 @@ d) Fodder – hay and straw – is divided according to the livestock.
 
 > *[§ 88–98 are missing from the source PDF.]*
 
-### CHAPTER EIGHT — INHERITANCE.
+### CHAPTER EIGHT — INHERITANCE. {#chapter-8}
 
-#### SECTION THIRTY-SIX — The Right of Inheritance in the Kanun.
+#### SECTION THIRTY-SIX — The Right of Inheritance in the Kanun. {#section-36}
 
 **§ 99.** To keep in the house the girls of the extinct household, and to take care of them as to clothing and footwear.
 
@@ -1116,19 +1170,23 @@ d) Fodder – hay and straw – is divided according to the livestock.
 
 **§ 102.** To hold the funeral meals for the daughters, if they die in their own house before or after marriage.
 
-#### SECTION THIRTY-EIGHT — The Half-Brother.
+#### SECTION THIRTY-EIGHT — The Half-Brother. {#section-38}
 
 **§ 103.** A half-brother, according to the Kanun, was the name for one who is born to the mother by a second husband.
 
 **§ 104.** The half-brother has no right of inheritance or of belonging in the household of his mother's first husband.
 
-### CHAPTER NINE — BEQUESTS.
+### CHAPTER NINE — BEQUESTS. {#chapter-9}
 
 Wills
 
-#### SECTION THIRTY-NINE — The Definition of Wills.
+#### SECTION THIRTY-NINE — The Definition of Wills. {#section-39}
+
+<div class="note" markdown="1">
 
 Note: The Kanun of Lekë does not recognise wills, and, if anyone wishes to leave something of his property for his soul, the consent of his cousins is absolutely required.
+
+</div>
 
 **§ 105.** Definition of Bequests (of Wills).
 
@@ -1140,7 +1198,7 @@ c) not be frightened by anyone's threat;
 
 d) have the right to bequeath.
 
-#### SECTION FORTY — Kinds of Bequests.
+#### SECTION FORTY — Kinds of Bequests. {#section-40}
 
 **§ 106.** Bequests are of two kinds: with a charge and without a charge.
 
@@ -1150,7 +1208,7 @@ b) Bequests without a charge are those where the one who bequeaths leaves someth
 
 c) The one who bequeaths is bound to gather his cousins and the Elders of the clan with witnesses, and both he and they shall put their finger to the paper as the kanun requires.
 
-#### SECTION FORTY-ONE — The Right of the Man Whose Line Has Died Out.
+#### SECTION FORTY-ONE — The Right of the Man Whose Line Has Died Out. {#section-41}
 
 **§ 107.** Everyone is master of his own property, and he who wishes to leave his goods to the church is free to do so and no one can prevent him.
 
@@ -1158,7 +1216,7 @@ c) The one who bequeaths is bound to gather his cousins and the Elders of the cl
 
 **§ 109.** A father, during his own lifetime, has the right to give his daughters money, household goods and trinkets; after her father's death a daughter has no right to claim what her father gave or promised.
 
-#### SECTION FORTY-TWO — The Right of the Cousins.
+#### SECTION FORTY-TWO — The Right of the Cousins. {#section-42}
 
 **§ 110.** The cousins of the man whose line has died out have the right to redeem the land and the goods of the man whose line has died out, but they shall hand over the price of this property to the Church, according to his intention.
 
@@ -1174,7 +1232,7 @@ c) The one who bequeaths is bound to gather his cousins and the Elders of the cl
 
 **§ 116.** If the father dies unexpectedly, leaving a son who is an infant in the cradle, the cousins shall take charge of the property and of the boy until he is 15 years old.
 
-#### SECTION FORTY-THREE — The Servant.
+#### SECTION FORTY-THREE — The Servant. {#section-43}
 
 **§ 117.** The master has the command, the servant the obedience.
 
@@ -1208,11 +1266,11 @@ c) The one who bequeaths is bound to gather his cousins and the Elders of the cl
 
 > *[At this point the source PDF contains a first, badly corrupted copy of § 132–168 (the house, the shepherd, livestock held on shares). The same paragraphs are repeated in clean form at the start of Book Four, so they are translated there and not here.]*
 
-## BOOK FOUR — HOUSE, LIVESTOCK AND PROPERTY
+## BOOK FOUR — HOUSE, LIVESTOCK AND PROPERTY {#book-4}
 
-### CHAPTER TEN
+### CHAPTER TEN {#chapter-10}
 
-#### SECTION FORTY-FOUR.
+#### SECTION FORTY-FOUR. {#section-44}
 
 "A house broken into carries a fine of 500 grosh, and two for one to the owner."
 
@@ -1238,9 +1296,9 @@ c) The one who bequeaths is bound to gather his cousins and the Elders of the cl
 
 **§ 142.** Whoever breaks down someone's gateway to the yard, the field, the meadow or the garden that he has in front of his house owes a fine of 500 grosh, and to the owner the work made good.
 
-### CHAPTER ELEVEN — LIVESTOCK.
+### CHAPTER ELEVEN — LIVESTOCK. {#chapter-11}
 
-#### SECTION FORTY-FIVE — The Shepherd.
+#### SECTION FORTY-FIVE — The Shepherd. {#section-45}
 
 "A house broken into carries a fine of 500 grosh, and two for one to the owner." [Repeated here in the source.]
 
@@ -1264,13 +1322,13 @@ c) The one who bequeaths is bound to gather his cousins and the Elders of the cl
 
 **§ 152.** The shepherd is bound to guard the animals, and he shall not rely on whether land is fenced or unfenced, because "animals need a guard, for they walk, and the land does not move".
 
-#### SECTION FORTY-SIX — The Bell-Goat or Bell-Ram (the Bellwether).
+#### SECTION FORTY-SIX — The Bell-Goat or Bell-Ram (the Bellwether). {#section-46}
 
 **§ 153.** "The honour of the fold is in the bell."
 
 **§ 154.** If the bell-goat or the bell-ram has been carried off as plunder, by violence or out of some spite and to shame the shepherd, and if the raiders were not killed in that onset, a fine of 500 grosh is taken from the raider and the animal two for one.
 
-#### SECTION FORTY-SEVEN — Livestock on Halves.
+#### SECTION FORTY-SEVEN — Livestock on Halves. {#section-47}
 
 **§ 155.** The principal stock is the owner's; if any head dies, the loss is the owner's. As proof, the token of it shall be taken to the owner by the one who holds it on halves.
 
@@ -1292,7 +1350,7 @@ c) The one who bequeaths is bound to gather his cousins and the Elders of the cl
 
 **§ 164.** The owner has no right to the cheese, either of the goats or of the sheep.
 
-#### SECTION FORTY-EIGHT — The Principal Stock.
+#### SECTION FORTY-EIGHT — The Principal Stock. {#section-48}
 
 **§ 165.** The principal stock is the owner's, and it never increases nor decreases.
 
@@ -1306,7 +1364,7 @@ c) The one who bequeaths is bound to gather his cousins and the Elders of the cl
 
 **§ 170.** If any head of stock comes to harm, the loss is the shepherd's, and he shall replace it to make up the number.
 
-#### SECTION FORTY-NINE — Livestock with Liability.
+#### SECTION FORTY-NINE — Livestock with Liability. {#section-49}
 
 **§ 171.** "Livestock is not taken with liability."
 
@@ -1314,7 +1372,7 @@ c) The one who bequeaths is bound to gather his cousins and the Elders of the cl
 
 **§ 173.** If the loss was caused by the negligence of the shepherd, the loss is his and he shall replace the animal that was harmed.
 
-#### SECTION FIFTY — The Sow on Halves.
+#### SECTION FIFTY — The Sow on Halves. {#section-50}
 
 **§ 174.** If a female piglet has been taken on halves as soon as the sow weans it, and the one who took it has raised it, he shall divide her litter in half with the owner.
 
@@ -1328,7 +1386,7 @@ c) The one who bequeaths is bound to gather his cousins and the Elders of the cl
 
 **§ 179.** If a full-grown sow has been given on halves, the litter is divided in half, and the sow is returned to the owner, for which one piglet more shall be left to the shepherd.
 
-#### SECTION FIFTY-ONE — The Dog's Post.
+#### SECTION FIFTY-ONE — The Dog's Post. {#section-51}
 
 **§ 180.** The chained dog has its own post.
 
@@ -1350,7 +1408,7 @@ c) The one who bequeaths is bound to gather his cousins and the Elders of the cl
 
 **§ 189.** The Priest may not keep a chained dog at the Presbytery (the Church), for the reason that the Priest must be ready night and day for every need of the people.
 
-#### SECTION FIFTY-TWO — The Ox for Hire.
+#### SECTION FIFTY-TWO — The Ox for Hire. {#section-52}
 
 **§ 190.** If the Priest wishes to keep a chained dog, he may not free it from its irons either by night or by day. [This paragraph belongs with the preceding section.]
 
@@ -1370,7 +1428,7 @@ c) The one who bequeaths is bound to gather his cousins and the Elders of the cl
 
 **§ 198.** The ploughman shall bring the grain to the owner's door.
 
-#### SECTION FIFTY-THREE — The Bees.
+#### SECTION FIFTY-THREE — The Bees. {#section-53}
 
 **§ 199.** "A bee enclosure broken into carries a fine of 500 grosh and two for one to the owner."
 
@@ -1400,9 +1458,9 @@ c) The one who bequeaths is bound to gather his cousins and the Elders of the cl
 
 **§ 212.** A swarm found in the caves of the cliffs on someone else's land, if it was far from houses, belongs to the one who found it; otherwise it belongs to the one within whose precinct it was found.
 
-### CHAPTER TWELVE — PROPERTY.
+### CHAPTER TWELVE — PROPERTY. {#chapter-12}
 
-#### SECTION FIFTY-FOUR — The Determination of Property.
+#### SECTION FIFTY-FOUR — The Determination of Property. {#section-54}
 
 **§ 213.** Whatever is a house that gives out smoke shall have its own property.
 
@@ -1432,7 +1490,7 @@ c) The one who bequeaths is bound to gather his cousins and the Elders of the cl
 
 **§ 226.** He who does not look after his summer hut for 10 years loses it after 10 years, and it falls to the one who takes it first. (Orosh)
 
-#### SECTION FIFTY-FIVE — Making Someone a Brother in the Village.
+#### SECTION FIFTY-FIVE — Making Someone a Brother in the Village. {#section-55}
 
 **§ 227.** To make someone a brother in the village means to accept a house of another Banner, so that it can come and settle in a village of a different Banner.
 
@@ -1444,7 +1502,7 @@ c) The one who bequeaths is bound to gather his cousins and the Elders of the cl
 
 **§ 231.** Funeral and wedding, pledge and fine, and the loan of flour it shares reciprocally with the village. It shall pay fines, and likewise it has a right to a share of the fines.
 
-#### SECTION FIFTY-SIX — The Commons.
+#### SECTION FIFTY-SIX — The Commons. {#section-56}
 
 "The commons go by hearth."
 
@@ -1460,9 +1518,9 @@ c) The one who bequeaths is bound to gather his cousins and the Elders of the cl
 
 **§ 237.** A tree planted in the commons belongs to the one who planted it, but its fruit is eaten by whoever can, without the one who planted it being able to stop them.
 
-### CHAPTER THIRTEEN — THE BOUNDARY.
+### CHAPTER THIRTEEN — THE BOUNDARY. {#chapter-13}
 
-#### SECTION FIFTY-SEVEN — The Boundaries of Land Are Not Moved.
+#### SECTION FIFTY-SEVEN — The Boundaries of Land Are Not Moved. {#section-57}
 
 **§ 238.** A boundary consists of large, upright stones, set as far below the ground as above it. A marked tree may also serve as a boundary.
 
@@ -1502,13 +1560,13 @@ c) The one who bequeaths is bound to gather his cousins and the Elders of the cl
 
 **§ 251.** If a killing has taken place as a result of the embroilment over the moved boundary, the one who caused it shall pay a fine of 100 rams and 1 ox, and is executed by the whole village.
 
-#### SECTION FIFTY-EIGHT.
+#### SECTION FIFTY-EIGHT. {#section-58}
 
 "A boundary makes no loops."
 
 **§ 252.** In order to remove every misunderstanding, the boundary shall not bend and shall not wind about, but shall cut straight.
 
-#### SECTION FIFTY-NINE.
+#### SECTION FIFTY-NINE. {#section-59}
 
 "The boundary won by blood."
 
@@ -1530,7 +1588,7 @@ c) The one who bequeaths is bound to gather his cousins and the Elders of the cl
 
 **§ 261.** This right holds only when men are killed over boundaries and not for every killing.
 
-#### SECTION SIXTY — The Boundary Won by the "Stone-Throw" or by the Loaded Slab.
+#### SECTION SIXTY — The Boundary Won by the "Stone-Throw" or by the Loaded Slab. {#section-60}
 
 (In very early times, perhaps when there were no guns, in the dividing of boundaries the stone-throw was used for nearby boundaries, and for the far ones a slab or a stone of monstrous size was made ready with a "who will take it on!", that is, to load oneself with it.)
 
@@ -1540,15 +1598,19 @@ c) The one who bequeaths is bound to gather his cousins and the Elders of the cl
 
 **§ 264.** With a slab or a great stone on the back: loading the slab or the stone on themselves, they pushed on until they sank beneath it. He who pushed on furthest, there the place of the boundary of his Banner would remain. (As that of the man from below Nderfanda at the Fusha të Lugjeve on Mal Shêjt, in the high pastures of Orosh.)
 
-#### SECTION SIXTY-ONE — The Boundary Set with the "Axe".
+#### SECTION SIXTY-ONE — The Boundary Set with the "Axe". {#section-61}
 
 **§ 265.** If need presses me to get out some timber, either because I have no high pasture or because I cannot find the kind of timber that I require, I seize the axe and go into another's high pasture. At the crack of the axe the guards of the high pasture come and find me cutting up a felled pine.
 
 **§ 266.** If the trespasser has made haste, and the strength of his arms has served him, and he has swung the axe and driven it deep into the trunk of the pine, and if the guards of the high pasture have not been able to pull it out, the boundary of the Banner of the one who planted the axe remained there. (As happened to Gjokë Buça of Kaçinari with Kushneni.)
 
+<div class="note" markdown="1">
+
 Note: The boundaries won by blood, by the stone-throw and by the planting of the axe are to be counted among the kanuns of the Giants, for the reason that in winning them strength was at work to drive away shame and disgrace. They will be understood more clearly still when we begin to set out in detail the customs of our Mountains.
 
-#### SECTION SIXTY-TWO — The Village Road.
+</div>
+
+#### SECTION SIXTY-TWO — The Village Road. {#section-62}
 
 "Roads are a right of the land."
 
@@ -1576,7 +1638,7 @@ j) A timber tree or fruit tree that harms another's field with its shade shall e
 
 k) Whoever cuts down someone's timber tree or fruit tree around the house, purely out of spite, shall pay 500 grosh to the owner of the tree cut down.
 
-#### SECTION SIXTY-THREE — The Highway.
+#### SECTION SIXTY-THREE — The Highway. {#section-63}
 
 **§ 268.** The highway shall be wide enough for a loaded horse and oxen with the yoke to pass.
 
@@ -1592,7 +1654,7 @@ k) Whoever cuts down someone's timber tree or fruit tree around the house, purel
 
 **§ 274.** "The road of the Banner shall be as wide as the staff of the Banner is long."
 
-#### SECTION SIXTY-FOUR — The Blind Road.
+#### SECTION SIXTY-FOUR — The Blind Road. {#section-64}
 
 **§ 275.** A path or a stile or, in the words of the kanun, a blind road, if it is within your four boundaries, close it and work the land.
 
@@ -1604,7 +1666,7 @@ k) Whoever cuts down someone's timber tree or fruit tree around the house, purel
 
 **§ 279.** For the moving of any path, the consent of the village is absolutely necessary.
 
-#### SECTION SIXTY-FIVE — The Grazing Penalty.
+#### SECTION SIXTY-FIVE — The Grazing Penalty. {#section-65}
 
 **§ 280.** "Give the grazing penalty yourself, otherwise they will take it from you by force."
 
@@ -1622,9 +1684,9 @@ k) Whoever cuts down someone's timber tree or fruit tree around the house, purel
 
 **§ 288.** If the shepherd has refused to pay the grazing penalty, and the owner of the mountain has risen with some companions and has raided the flock on his own mountain, then both the village and the Banner support the raider, and demand an account from the owner of the flock. The village and the Banner of the shepherd shall either compel him to pay the grazing penalty, or renounce him.
 
-## BOOK FIVE — WORK
+## BOOK FIVE — WORK {#book-5}
 
-#### SECTION FORTY-SIX. [sic; should be Section Sixty-Six]
+#### SECTION SIXTY-SIX. {#section-66}
 
 "Work moves the path."
 
@@ -1636,7 +1698,7 @@ k) Whoever cuts down someone's timber tree or fruit tree around the house, purel
 
 **§ 292.** The kanun does not want anyone's land to be harmed, and therefore it says that "The hoe and the pick move the road", but the road and the path must be made good with another place. [*Shaterkazi*, read as *shat e kazmë*, "hoe and pick", is uncertain.]
 
-#### SECTION SIXTY-SEVEN — The Tenant Farmer. [printed as Forty-Seven]
+#### SECTION SIXTY-SEVEN — The Tenant Farmer. {#section-67}
 
 **§ 293.** A tenant farmer is the one who comes in to work the land of a landlord.
 
@@ -1682,7 +1744,7 @@ k) Whoever cuts down someone's timber tree or fruit tree around the house, purel
 
 **§ 314.** For the watering of the garden vegetables, the tenant takes the water in the turn of the landlord's lands.
 
-#### SECTION SIXTY-EIGHT — The Smith. [printed as Forty-Eight]
+#### SECTION SIXTY-EIGHT — The Smith. {#section-68}
 
 **§ 315.** "The smithy (like the Church, the mill and the inn) cannot have a guest violated."
 
@@ -1716,7 +1778,7 @@ k) Whoever cuts down someone's timber tree or fruit tree around the house, purel
 
 **§ 330.** The smith, with all his household, is not exempt from any duty of the village.
 
-#### SECTION SIXTY-NINE — The Mill. [printed as Forty-Nine]
+#### SECTION SIXTY-NINE — The Mill. {#section-69}
 
 **§ 331.** "The miller and the innkeeper shall sleep on one elbow."
 
@@ -1738,7 +1800,7 @@ k) Whoever cuts down someone's timber tree or fruit tree around the house, purel
 
 **§ 340.** If you had no fixed turn of grinding, and went to the mill and found a hundred customers there, you shall stay and wait, or go to another mill.
 
-#### SECTION SEVENTY — The Mill-Race.
+#### SECTION SEVENTY — The Mill-Race. {#section-70}
 
 **§ 341.** The mill-race, if it was bought with the estate, may not be lowered by anyone, may not be moved, and may not be dried up by anyone.
 
@@ -1760,7 +1822,7 @@ k) Whoever cuts down someone's timber tree or fruit tree around the house, purel
 
 **§ 350.** After eight days he shall send the worker, even if he is of the House of Gjomarku.
 
-#### SECTION SEVENTY-ONE — Irrigation.
+#### SECTION SEVENTY-ONE — Irrigation. {#section-71}
 
 **§ 351.** "The channel of the fields is neither moved nor stopped."
 
@@ -1834,7 +1896,7 @@ k) Whoever cuts down someone's timber tree or fruit tree around the house, purel
 
 **§ 386.** If livestock has broken through the water of the channel, its owner shall pay the damage to the one who suffered it.
 
-#### SECTION SEVENTY-TWO — The Miller's Toll.
+#### SECTION SEVENTY-TWO — The Miller's Toll. {#section-72}
 
 **§ 387.** The grinding toll, which the miller takes for each load, consists of one *babune*.
 
@@ -1854,9 +1916,9 @@ k) Whoever cuts down someone's timber tree or fruit tree around the house, purel
 
 **§ 395.** Once the customer has set off and, as soon as he has gone beyond the precinct of the mill, someone confronts him and either kills him or takes his horse with the whole load, the miller neither has a guest violated nor is he held answerable, unless the customer had placed himself under his protection.
 
-### CHAPTER FOURTEEN — HUNTING
+### CHAPTER FOURTEEN — HUNTING {#chapter-14}
 
-#### SECTION SEVENTY-THREE — The Determination of Hunting.
+#### SECTION SEVENTY-THREE — The Determination of Hunting. {#section-73}
 
 **§ 396.** The kanun has not fixed any season in which hunting is forbidden; in every season hunting is free in our mountains.
 
@@ -1906,7 +1968,7 @@ k) Whoever cuts down someone's timber tree or fruit tree around the house, purel
 
 **§ 419.** If you have gone out hunting, and someone has joined you, with a gun or even without a gun, if you kill anything, you shall give him a share.
 
-#### SECTION SEVENTY-FOUR — Game Followed by Its Tracks.
+#### SECTION SEVENTY-FOUR — Game Followed by Its Tracks. {#section-74}
 
 **§ 420.** Animals followed by their tracks, if they are found to have gone into a hollow oak or into a cave, the one who followed and found them shall circle the oak three times with his tracks, or shall make three rows of tracks in front of the cave.
 
@@ -1926,7 +1988,7 @@ k) Whoever cuts down someone's timber tree or fruit tree around the house, purel
 
 **§ 428.** If someone has gone out hunting and another man's hound has followed him, the owner of the hound has no share in anything that he kills. If the owner of the hound sues him, the hunter shall pay him a day's labour: 5 grosh.
 
-#### SECTION SEVENTY-FIVE — Fishing.
+#### SECTION SEVENTY-FIVE — Fishing. {#section-75}
 
 **§ 429.** Fishing, like the hunting of animals, has no prohibition fixed by the kanun. In every season of the year fishing is free.
 
@@ -1982,9 +2044,9 @@ k) Whoever cuts down someone's timber tree or fruit tree around the house, purel
 
 **§ 451.** Once poison has been put in by one party, the other party may not put in other poison either above or below those who put it in first.
 
-### CHAPTER FIFTEEN — TRADE.
+### CHAPTER FIFTEEN — TRADE. {#chapter-15}
 
-#### SECTION SEVENTY-SIX — The Determination of Trade.
+#### SECTION SEVENTY-SIX — The Determination of Trade. {#section-76}
 
 **§ 452.** Under the Kanun of trade one either buys and sells without conditions, that is, outright, or else with conditions, before witnesses, or else with earnest money.
 
@@ -2010,7 +2072,7 @@ k) Whoever cuts down someone's timber tree or fruit tree around the house, purel
 
 **§ 463.** A thing which is bought with the fear that it may be stolen, if its owner turns up after it was bought, the buyer takes it to the one who sold it to him, and the seller of the stolen thing shall return to him the price that he had given for it. The principle of the kanun is: "Wherever the owner finds his property, he takes it."
 
-#### SECTION SEVENTY-SEVEN — The Sale of Land.
+#### SECTION SEVENTY-SEVEN — The Sale of Land. {#section-77}
 
 **§ 464.** Before any land, or a turn of irrigation water, or a turn at the mill is sold, it shall be offered at the door of the cousins, the brotherhood and the clan.
 
@@ -2020,9 +2082,13 @@ k) Whoever cuts down someone's timber tree or fruit tree around the house, purel
 
 **§ 467.** If the village has not bought it either, then you are free to sell it to any buyer.
 
+<div class="note" markdown="1">
+
 Note.
 
 It has almost never happened in our Highlands that any land, mill or turn of irrigation water has been sold outside the village. If the cousins, the clan and the neighbour cannot afford to buy that land, mill or turn of water, the village will sell and resell itself, and will not allow an outsider to buy it and to get under its nose.
+
+</div>
 
 **§ 468.** If someone has gone and sold land, a mill or a turn of water without proclaiming it to the cousins, the brotherhood, the clan or the neighbour, the sale is illegal in the eyes of the kanun.
 
@@ -2044,7 +2110,7 @@ It has almost never happened in our Highlands that any land, mill or turn of irr
 
 **§ 477.** The raki shall be provided by the one who buys.
 
-#### SECTION SEVENTY-EIGHT — The Sale of Weapons and of the Horse.
+#### SECTION SEVENTY-EIGHT — The Sale of Weapons and of the Horse. {#section-78}
 
 **§ 478.** "The gun and the horse go from peg to peg."
 
@@ -2058,7 +2124,7 @@ It has almost never happened in our Highlands that any land, mill or turn of irr
 
 **§ 483.** If you have bought an ox or a cow, etc., with conditions: if this animal turns out to have liver rot [*kelbazët*, liver fluke; probable reading] by Saint [...]'s day. [The sentence breaks off in the source.]
 
-#### SECTION SEVENTY-NINE — Prices in the Kanun.
+#### SECTION SEVENTY-NINE — Prices in the Kanun. {#section-79}
 
 **§ 484.** According to the kanun:
 
@@ -2142,7 +2208,7 @@ It has almost never happened in our Highlands that any land, mill or turn of irr
 
 40\. White (silver-mounted) pistols … worth 100
 
-#### SECTION EIGHTY — The Paid Messenger.
+#### SECTION EIGHTY — The Paid Messenger. {#section-80}
 
 **§ 485.** "He travels the road, he takes a wage. – A hired horse has its hide on the beam." [The second proverb is obscure.]
 
@@ -2158,7 +2224,7 @@ It has almost never happened in our Highlands that any land, mill or turn of irr
 
 **§ 491.** If the messenger set out from the house that sends him, or from the house to which he was sent, and if some harm befalls him with their bread, they have a guest violated, according to the Kanun.
 
-#### SECTION EIGHTY-ONE.
+#### SECTION EIGHTY-ONE. {#section-81}
 
 "Goods for goods."
 
@@ -2182,9 +2248,9 @@ c) bloods.
 
 **§ 498.** The lowest fine goes down to one ram, and the highest may not exceed a hundred rams.
 
-## BOOK SIX — GIFTS
+## BOOK SIX — GIFTS {#book-6}
 
-#### SECTION EIGHTY-TWO — The Loan.
+#### SECTION EIGHTY-TWO — The Loan. {#section-82}
 
 **§ 499.** The kanun of the mountains does not recognise loans with an addition of gain (interest).
 
@@ -2206,19 +2272,23 @@ c) bloods.
 
 **§ 508.** Whatever is left over beyond the lender's loan from the sale of the pledge, he shall hand over to the owner of the pledge.
 
+<div class="note" markdown="1">
+
 Note.
 
 According to the principles mentioned and to the account of the old men, the Albanians of earlier times in our Mountains did not know how either to give or to take loans with an addition of gain; this evil vice must have come in very late.
 
-#### SECTION EIGHTY-THREE — The Term.
+</div>
+
+#### SECTION EIGHTY-THREE — The Term. {#section-83}
 
 **§ 509.** The term of loans is a fixed time within which the debtor shall bring the loan he has taken to its owner.
 
 **§ 510.** A loan may be given on one's word of honour and manliness, with a surety, or also simply by securing it with a pledge. On pledges see Book IV, Section LXXXII, "The Loan", [§] 56. [The cross-reference is garbled in the source; "The Loan" is Section Eighty-Two of this book.]
 
-### CHAPTER SIXTEEN — THE PROMISED REWARD, THE GIFT
+### CHAPTER SIXTEEN — THE PROMISED REWARD, THE GIFT {#chapter-16}
 
-#### SECTION EIGHTY-FOUR — The Promised Reward.
+#### SECTION EIGHTY-FOUR — The Promised Reward. {#section-84}
 
 "The promised reward is at the bottom of the purse."
 
@@ -2234,7 +2304,7 @@ According to the principles mentioned and to the account of the old men, the Alb
 
 **§ 516.** Once he has settled the matter, whatever anyone has promised to another he shall give him, because "The promised reward is at the bottom of the purse".
 
-#### SECTION EIGHTY-FIVE — The Gift.
+#### SECTION EIGHTY-FIVE — The Gift. {#section-85}
 
 "I gave it, I did not give it. The kanun does not touch it."
 
@@ -2244,9 +2314,9 @@ According to the principles mentioned and to the account of the old men, the Alb
 
 **§ 519.** The kanun says: The sullied face, whether you wash it or blacken it even more [the paragraph breaks off at the end of the book in the source].
 
-## BOOK SEVEN — THE SPOKEN WORD
+## BOOK SEVEN — THE SPOKEN WORD {#book-7}
 
-#### SECTION EIGHTY-SIX — The Word.
+#### SECTION EIGHTY-SIX — The Word. {#section-86}
 
 "A word does not make a death." – "Witches do not fall into blood." – "The mouth puts no one into blood."
 
@@ -2260,11 +2330,15 @@ According to the principles mentioned and to the account of the old men, the Alb
 
 **§ 524.** Whether I spoke or did not speak, the mouth seals nothing. – The kanun pays no heed to the words of mischief-makers.
 
+<div class="note" markdown="1">
+
 Note:
 
 The meaning and the force of the word spoken in the heat of a killing, and what "The word is a pledge" means, will be set out in time.
 
-#### SECTION EIGHTY-SEVEN — Denial.
+</div>
+
+#### SECTION EIGHTY-SEVEN — Denial. {#section-87}
 
 **§ 525.** A denier is the one who does not submit to an accusation or a slander, whether over some damage, a theft, a killing, etc.
 
@@ -2274,7 +2348,7 @@ The meaning and the force of the word spoken in the heat of a killing, and what 
 
 **§ 528.** The accuser and the slanderer bring the denier to reason with Elders and a pledge.
 
-#### SECTION EIGHTY-EIGHT — The Oath.
+#### SECTION EIGHTY-EIGHT — The Oath. {#section-88}
 
 "Beyond the oath there is no settling of a grudge."
 
@@ -2294,7 +2368,7 @@ The meaning and the force of the word spoken in the heat of a killing, and what 
 
 **§ 532.** The oath of the Albanian has two things in view: a) it calls God to witness the truth; b) it submits to the weight of eternal punishment and of the temporal fine of the kanun.
 
-#### SECTION EIGHTY-NINE — The Oath on the "Stone" and the Oath on the Cross and on the Gospel.
+#### SECTION EIGHTY-NINE — The Oath on the "Stone" and the Oath on the Cross and on the Gospel. {#section-89}
 
 **§ 533.** The oath of the Mountains of Albania is of two kinds: a) the oath on the "stone", by the Kanun (3) [an unexplained note mark in the source]; b) the oath on the Cross or on the Gospel.
 
@@ -2312,7 +2386,7 @@ b) to bind oneself by a *besa* against complicity and treachery in the land;
 
 c) to stand ready to face common threats and dangers.
 
-#### SECTION NINETY — Who Shall Take the Oath.
+#### SECTION NINETY — Who Shall Take the Oath. {#section-90}
 
 **§ 538.** "Swear and lose, says the kanun, and not swear and take."
 
@@ -2336,7 +2410,7 @@ c) to stand ready to face common threats and dangers.
 
 **§ 547.** The principle of the kanun is: "To clear oneself by one's own oath and answer to no one" [is not allowed].
 
-#### SECTION NINETY-ONE.
+#### SECTION NINETY-ONE. {#section-91}
 
 "The oath takes back one's own."
 
@@ -2362,7 +2436,7 @@ c) to stand ready to face common threats and dangers.
 
 **§ 557.** Once the accuser has taken this oath, the dead man's family shall pay the loan or the debt that he claims from the dead man.
 
-#### SECTION NINETY-TWO.
+#### SECTION NINETY-TWO. {#section-92}
 
 "The oath for the house."
 
@@ -2380,7 +2454,7 @@ c) to stand ready to face common threats and dangers.
 
 **§ 564.** In the oath that is given for the house too, the oath shall be taken for oneself, for the people of the house, and "with *sedije*".
 
-#### SECTION NINETY-THREE.
+#### SECTION NINETY-THREE. {#section-93}
 
 "The oath on the heads of one's sons."
 
@@ -2392,7 +2466,7 @@ c) to stand ready to face common threats and dangers.
 
 **§ 568.** Beyond this oath the accuser has no right to press the suspect with other oaths.
 
-#### SECTION NINETY-FOUR.
+#### SECTION NINETY-FOUR. {#section-94}
 
 The oath "with *sedije*" ["I did not know"].
 
@@ -2436,7 +2510,7 @@ The oath "with *sedije*" ["I did not know"].
 
 **§ 588.** To avoid every suspicion of a false oath, the Elders of the court shall keep their eyes open, choosing honourable men as named jurors, on whom a just oath depends.
 
-#### SECTION NINETY-FIVE — The Fine for a False Oath.
+#### SECTION NINETY-FIVE — The Fine for a False Oath. {#section-95}
 
 **§ 589.** If some bold-hearted man comes forward and leads the owner to his goods after a false oath, the perjurer shall pay for the goods twofold and the fine for the false oath, and on top of this the kanun sets on them the seal of infamy, generation after generation, unto seven generations.
 
@@ -2456,9 +2530,9 @@ d) he shall go to the Church, with all the jurors, to be absolved from the false
 
 e) he shall pay 500 grosh for each Juror, because he led them into a false oath, violating the Church. – The thief shall lay this money on the altar for the Church.
 
-## BOOK EIGHT — HONOUR
+## BOOK EIGHT — HONOUR {#book-8}
 
-### CHAPTER SEVENTEEN — PERSONAL HONOUR.
+### CHAPTER SEVENTEEN — PERSONAL HONOUR. {#chapter-17}
 
 **§ 593.** The Kanun of the Mountains of Albania does not distinguish one person from another. "Soul for soul, for it is God who grants looks."
 
@@ -2476,7 +2550,7 @@ e) he shall pay 500 grosh for each Juror, because he led them into a false oath,
 
 **§ 600.** He whose honour has been taken is held to be dead in the eyes of the kanun.
 
-**§ 601.** [printed as § 691] A man's honour is taken:
+**§ 601.** A man's honour is taken:
 
 a) If someone tells him that he lies, before the men gathered in assembly;
 
@@ -2500,9 +2574,9 @@ j) If someone cuts the *kashata* before the guest – the guest's honour is take
 
 k) If the head of the house shames his table before the guest's eyes, as when he scrapes the bottom of the pot or licks the bowl.
 
-### CHAPTER EIGHTEEN — SOCIAL HONOUR.
+### CHAPTER EIGHTEEN — SOCIAL HONOUR. {#chapter-18}
 
-#### SECTION NINETY-SIX — The Guest.
+#### SECTION NINETY-SIX — The Guest. {#section-96}
 
 **§ 602.** "The house of the Albanian belongs to God and to the guest."
 
@@ -2586,7 +2660,7 @@ c) a sign of prudence for yourself, because once you have taken his weapon, even
 
 **§ 639.** Just as you are bound to demand satisfaction for a violated guest, so you are bound to answer for it if the guest harms someone with your bread.
 
-#### SECTION NINETY-SEVEN — The Violation of the Guest.
+#### SECTION NINETY-SEVEN — The Violation of the Guest. {#section-97}
 
 "Protection is not abandoned."
 
@@ -2622,11 +2696,15 @@ c) if he has not demanded satisfaction for the slain guest, then, though a fello
 
 **§ 652.** If two companions meet on the highway, and, after they have gone some way, a gun cracks and one of them is killed, the other does not have a guest violated.
 
+<div class="note" markdown="1">
+
 Note:
 
 It is true that he does not have a guest violated, but he remains disgraced if he does not fire at the killer. The Albanian, even though he falls into blood without owing any, paying for it by killing for his violated guest, does not take that matter lightly; he will be wiped out, root and branch, but he will not accept shame.
 
-#### SECTION NINETY-EIGHT — The Conduct of the Head of the House with Guests in the House.
+</div>
+
+#### SECTION NINETY-EIGHT — The Conduct of the Head of the House with Guests in the House. {#section-98}
 
 **§ 653.** The guest takes the place of honour at the table, and from then on he is under protection.
 
@@ -2640,11 +2718,15 @@ It is true that he does not have a guest violated, but he remains disgraced if h
 
 **§ 658.** The Standard-bearer shall break the ram's head with his fist, and the guest, once he has the shoulder, shall break its knob.
 
-**§ 659.** If a man of Ohëri (of Thkella) comes as a guest to Mirdita or to the Highlands of Lezha, and someone of the Gjomarkaj also happens to be there, the man of Ohëri takes the place of honour, and then the man of the Gjomarkaj. (No one contests this, out of respect.)
+**§ 659.** If a man of Ohëri (of Kthella) comes as a guest to Mirdita or to the Highlands of Lezha, and someone of the Gjomarkaj also happens to be there, the man of Ohëri takes the place of honour, and then the man of the Gjomarkaj. (No one contests this, out of respect.)
+
+<div class="note" markdown="1">
 
 Note:
 
 These customs look like play, but they have caused killings for which men had to answer, right at the table.
+
+</div>
 
 **§ 660.** The guest takes his coffee first, then the head of the house.
 
@@ -2660,7 +2742,7 @@ These customs look like play, but they have caused killings for which men had to
 
 **§ 666.** A gun fired for a violated guest carries no fine.
 
-#### SECTION NINETY-NINE — Mediation.
+#### SECTION NINETY-NINE — Mediation. {#section-99}
 
 **§ 667.** The mediator, like the messenger, commits no offence and is not held answerable.
 
@@ -2694,7 +2776,7 @@ These customs look like play, but they have caused killings for which men had to
 
 **§ 682.** Mediation always ends either at sunrise or at sunset (at the rising or the setting of the sun).
 
-#### SECTION ONE HUNDRED — Suretyship.
+#### SECTION ONE HUNDRED — Suretyship. {#section-100}
 
 **§ 683.** A surety is the one who binds himself to someone to answer for a debt which, if the debtor has not paid it by the fixed term, he himself becomes the one who pays.
 
@@ -2720,9 +2802,9 @@ These customs look like play, but they have caused killings for which men had to
 
 **§ 694.** If it was the case that the debtor could not get the money ready by the fixed term purely out of poverty, the surety shall be ready to pay for him, and he must expect this, for "A dry hand has no blessing", and he has no reason to bring him before the village, for his complaint will not be heard: he should have measured himself before he became a surety.
 
-### CHAPTER NINETEEN — BLOOD AND KIN, SWORN BROTHERHOOD AND GODPARENTHOOD IN THE KANUN OF THE MOUNTAINS.
+### CHAPTER NINETEEN — BLOOD AND KIN, SWORN BROTHERHOOD AND GODPARENTHOOD IN THE KANUN OF THE MOUNTAINS. {#chapter-19}
 
-#### SECTION ONE HUNDRED AND ONE — Blood, Kin and the Generations of Albanians.
+#### SECTION ONE HUNDRED AND ONE — Blood, Kin and the Generations of Albanians. {#section-101}
 
 **§ 695.** For the Albanian of the mountains, the line of the generations of blood and of kin goes on without end.
 
@@ -2730,7 +2812,7 @@ These customs look like play, but they have caused killings for which men had to
 
 **§ 697.** Even if he is separated from them by four hundred hearths, the Albanian neither takes nor gives, that is, he does not intermarry.
 
-#### SECTION ONE HUNDRED AND TWO — The Tree of Blood, the Tree of Milk, the Nephew of the Trunk and the Nephew of the Daughter.
+#### SECTION ONE HUNDRED AND TWO — The Tree of Blood, the Tree of Milk, the Nephew of the Trunk and the Nephew of the Daughter. {#section-102}
 
 **§ 698.** The generations flow either from blood or from kin.
 
@@ -2744,11 +2826,11 @@ These customs look like play, but they have caused killings for which men had to
 
 **§ 703.** Nephew or niece of the daughters is the name for the line of males or females that flows from the married daughters.
 
-#### SECTION ONE HUNDRED AND THREE — Sworn Brotherhood.
+#### SECTION ONE HUNDRED AND THREE — Sworn Brotherhood. {#section-103}
 
 **§ 704.** Sworn brotherhood, which is made by drinking blood, forbids marriage for ever between those who have become brothers, their houses and their hearths.
 
-#### SECTION ONE HUNDRED AND FOUR — Godparenthood (the Kinship of Saint John).
+#### SECTION ONE HUNDRED AND FOUR — Godparenthood (the Kinship of Saint John). {#section-104}
 
 **§ 705.** What blood and kin are as regards marriage, so too is godparenthood.
 
@@ -2760,15 +2842,15 @@ b) the godparenthood of the Crown,
 
 c) the godparenthood of the Hair.
 
-#### SECTION ONE HUNDRED AND FIVE — The Godparenthood of Baptism.
+#### SECTION ONE HUNDRED AND FIVE — The Godparenthood of Baptism. {#section-105}
 
 **§ 707.** The godparenthood of Baptism forbids marriage, generation after generation, not only between the one baptised, the parents of the one baptised and those who "weigh" him at the door of the Church, but also between all the members that the houses of the one side and of the other may have, and their whole hearth.
 
-#### SECTION ONE HUNDRED AND SIX — The Godparenthood of the Crown.
+#### SECTION ONE HUNDRED AND SIX — The Godparenthood of the Crown. {#section-106}
 
 **§ 708.** The godparenthood of the Crown forbids marriage between the members of the house of the godparents and of the house of the groom; and if the godparenthood of the Crown becomes rooted between two brotherhoods and extends to their hearths as well, this matter goes as with the godparenthood of Baptism.
 
-#### SECTION ONE HUNDRED AND SEVEN — The Godparenthood of the Hair.
+#### SECTION ONE HUNDRED AND SEVEN — The Godparenthood of the Hair. {#section-107}
 
 **§ 709.** The godparenthood and co-motherhood that is made at the shaving and cutting of the hair enters into a bond of the kanun that nothing moves.
 
@@ -2780,7 +2862,7 @@ c) the godparenthood of the Hair.
 
 **§ 713.** The co-mother's visit may not be extended beyond five days: the days of the co-mother's stay at the godfather's shall always be odd and never even, three or five.
 
-#### SECTION ONE HUNDRED AND EIGHT — The Customs of the Kanun at the Cutting of the Hair.
+#### SECTION ONE HUNDRED AND EIGHT — The Customs of the Kanun at the Cutting of the Hair. {#section-108}
 
 **§ 714.** *Nun* or godfather is the name for the one who cuts the hair.
 
@@ -2824,9 +2906,9 @@ c) the godparenthood of the Hair.
 
 **§ 734.** Neither funeral nor wedding nor feast is celebrated without the co-mother and the godfather, without the godson and the goddaughter.
 
-## BOOK NINE — DAMAGES
+## BOOK NINE — DAMAGES {#book-9}
 
-#### SECTION ONE HUNDRED AND NINE — The Determination of Damages.
+#### SECTION ONE HUNDRED AND NINE — The Determination of Damages. {#section-109}
 
 **§ 735.** "Damage has a price, but not a fine."
 
@@ -2860,7 +2942,7 @@ c) a vine blinded by a goat therefore carries six oka of wine and three oka of r
 
 **§ 747.** As for damage to a field, the price of the kanun is: "A hundred ears of maize: one *babune* of grain." (For a hundred ears or plants damaged, the owner of the livestock shall pay one *babune* of grain.)
 
-#### SECTION ONE HUNDRED AND TEN — The Pig Doing Damage.
+#### SECTION ONE HUNDRED AND TEN — The Pig Doing Damage. {#section-110}
 
 **§ 748.** "A pig doing damage gets the gun. – If you find a pig doing damage, shoot it."
 
@@ -2878,7 +2960,7 @@ c) a vine blinded by a goat therefore carries six oka of wine and three oka of r
 
 **§ 755.** If the pig went into the damage with its yoke-collar on, it is liable for the damage and not for the gun. If you killed it, you pay for the pig.
 
-#### SECTION ONE HUNDRED AND ELEVEN — The Trap or the Snare Set in a Garden.
+#### SECTION ONE HUNDRED AND ELEVEN — The Trap or the Snare Set in a Garden. {#section-111}
 
 **§ 756.** "In my own garden I have set a trap or a snare; no one can stop me."
 
@@ -2900,9 +2982,9 @@ c) a vine blinded by a goat therefore carries six oka of wine and three oka of r
 
 **§ 765.** If someone has set a trap in the surroundings of other people's houses, and an animal of the owner of the place has fallen into it and has been left with a broken leg or has even died in the trap, the owner of the trap shall pay two for one.
 
-## BOOK TEN — THE KANUN AGAINST WRONGDOING
+## BOOK TEN — THE KANUN AGAINST WRONGDOING {#book-10}
 
-### CHAPTER TWENTY — COMPLICITY.
+### CHAPTER TWENTY — COMPLICITY. {#chapter-20}
 
 **§ 766.** An accomplice is the one who, by wicked intermediation and in an underhand way, gives help to another to commit some ruin or some other black-faced deed in his own village.
 
@@ -2914,9 +2996,9 @@ b) for a killing, falls into blood and pays a fine of 500 grosh to the village;
 
 c) for theft, and for anything that is stolen in the village with the bread, the guidance and the instruction of the accomplice, once it has been discovered, he shall pay for the goods according to the kanun.
 
-### CHAPTER TWENTY-ONE — THEFT.
+### CHAPTER TWENTY-ONE — THEFT. {#chapter-21}
 
-#### SECTION ONE HUNDRED AND TWELVE — The Determination of Theft.
+#### SECTION ONE HUNDRED AND TWELVE — The Determination of Theft. {#section-112}
 
 **§ 768.** Theft includes:
 
@@ -2952,7 +3034,7 @@ h) The robber; and he is the one who openly and by force takes something from so
 
 **§ 776.** Children, *bracat* and *biramelat*, even if they are found with the stolen things in their hands, may not be touched (may not be struck) by another's hand, but their parents shall be informed, and they shall answer for them.
 
-#### SECTION ONE HUNDRED AND THIRTEEN — Robbery.
+#### SECTION ONE HUNDRED AND THIRTEEN — Robbery. {#section-113}
 
 **§ 777.** "God's road pays no one's debts."
 
@@ -2964,7 +3046,7 @@ h) The robber; and he is the one who openly and by force takes something from so
 
 **§ 781.** If someone has gone, merely on suspicion, and robbed someone of a horse, a mule or a donkey, and in the end the one who was robbed turns out to owe nothing, the robber incurs the fine of the village for breaking the highway, and shall return the animal to its owner and the price of the days lost.
 
-#### SECTION ONE HUNDRED AND FOURTEEN — The Raid (Plundering).
+#### SECTION ONE HUNDRED AND FOURTEEN — The Raid (Plundering). {#section-114}
 
 **§ 782.** "A raid is answered with a raid."
 
@@ -3006,13 +3088,13 @@ h) The robber; and he is the one who openly and by force takes something from so
 
 **§ 801.** If the raider has used up the animals he raided, on the day of payment he shall return them to their owner head for head, even letting him choose from his own herd.
 
-#### SECTION ONE HUNDRED AND FIFTEEN — The Shameful Offence.
+#### SECTION ONE HUNDRED AND FIFTEEN — The Shameful Offence. {#section-115}
 
 **§ 802.** Whoever robs the house and the bag of the guest [*Shpin*, 'the house', as in § 838], the kanun has fixed as his fine "the black face", and he is cast out of the assembly and of the court.
 
 **§ 803.** If someone else's hand has robbed the guest of a house, the violated guest and the broken house are demanded from the house of the other.
 
-#### SECTION ONE HUNDRED AND SIXTEEN — Two for One.
+#### SECTION ONE HUNDRED AND SIXTEEN — Two for One. {#section-116}
 
 **§ 804.** In all the places where the kanun is kept, every stolen thing carries two for one: "Two for one, as long as they walk on legs."
 
@@ -3030,7 +3112,7 @@ h) The robber; and he is the one who openly and by force takes something from so
 
 **§ 811.** For the tools of husbandry, e.g. for a plough that has been stolen, the thief, once discovered, shall pay the owner as many workers as days that were lost to him, and a plough for the plough.
 
-#### SECTION ONE HUNDRED AND SEVENTEEN — The Right of the Owner of Stolen Goods.
+#### SECTION ONE HUNDRED AND SEVENTEEN — The Right of the Owner of Stolen Goods. {#section-117}
 
 **§ 812.** "Where the owner finds his property, he takes it."
 
@@ -3052,9 +3134,9 @@ h) The robber; and he is the one who openly and by force takes something from so
 
 **§ 821.** If the thing was stolen in the house, the thief shall pay two for one and 500 grosh for the broken house.
 
-### CHAPTER TWENTY-TWO — KILLING.
+### CHAPTER TWENTY-TWO — KILLING. {#chapter-22}
 
-#### SECTION ONE HUNDRED AND EIGHTEEN — The Ambush.
+#### SECTION ONE HUNDRED AND EIGHTEEN — The Ambush. {#section-118}
 
 **§ 822.** The ambush is a practice by which, in the mountains and the plains of Albania, those who owe blood, or anyone who intends to kill, lie in wait. (To go out in ambush; to lie in ambush, to set an ambush, to fall into an ambush.)
 
@@ -3098,7 +3180,7 @@ h) The robber; and he is the one who openly and by force takes something from so
 
 **§ 842.** If someone told another to lie in ambush for someone and to kill him, giving him his *besa* that on the day of the reconciliation for that blood he would pay the price of the blood, and the other, on the strength of the *besa* given, went and killed that very man whom he had told him to, and in the end he leaves him in the lurch and does not answer for it with money, the killer remains in blood, and the house of the one who put him up to it is burned for the breach [of his *besa*] he committed against him, with a fine of 100 rams and an ox. [Literally 'for the cut he made him'.]
 
-#### SECTION ONE HUNDRED AND NINETEEN — The Killer.
+#### SECTION ONE HUNDRED AND NINETEEN — The Killer. {#section-119}
 
 **§ 843.** The killer is the one who kills someone with his own hand.
 
@@ -3114,11 +3196,11 @@ h) The robber; and he is the one who openly and by force takes something from so
 
 **§ 849.** The killer may move about at night; wherever the daylight finds him, he shall hide.
 
-#### SECTION ONE HUNDRED AND TWENTY — The Accomplice.
+#### SECTION ONE HUNDRED AND TWENTY — The Accomplice. {#section-120}
 
 **§ 850.** An accomplice is the one who gives a hand to the killer, helping him either in a killing, or in a theft, or in the carrying out of any other wrongdoing.
 
-#### SECTION ONE HUNDRED AND TWENTY-ONE — The Guarantor of the Besa.
+#### SECTION ONE HUNDRED AND TWENTY-ONE — The Guarantor of the Besa. {#section-121}
 
 **§ 851.** Guarantors of the *besa* are those who go to the family and the cousins of the slain man to obtain a *besa* for the killer and for his house; they are the protectors of the killer and of his house, so that nothing befalls them within the term of the *besa*.
 
@@ -3126,7 +3208,7 @@ h) The robber; and he is the one who openly and by force takes something from so
 
 **§ 853.** Since it is a need that everyone shares in turn, the kanun does not want those who stand surety, nor those who obtain a *besa* for someone, to take "sandals".
 
-#### SECTION ONE HUNDRED AND TWENTY-TWO — The Besa.
+#### SECTION ONE HUNDRED AND TWENTY-TWO — The Besa. {#section-122}
 
 **§ 854.** The *besa* is a term of freedom and security which the house of the slain man gives to the killer and to the members of his household, not pursuing them for blood for a time, until a fixed term.
 
@@ -3168,7 +3250,7 @@ h) The robber; and he is the one who openly and by force takes something from so
 
 **§ 873.** If the house of the slain man has killed one of the cousins of separate hearth after the 24 hours have passed, it does not take its blood, but falls into blood.
 
-#### SECTION ONE HUNDRED AND TWENTY-THREE — The Besa of the Livestock and the Shepherd.
+#### SECTION ONE HUNDRED AND TWENTY-THREE — The Besa of the Livestock and the Shepherd. {#section-123}
 
 **§ 874.** The *besa* of the livestock and the shepherd is that which two or more Banners set among themselves by the consent of one and the other.
 
@@ -3198,13 +3280,17 @@ b) the Banner of the killer burns three of the killer's towers; if the killer di
 
 **§ 885.** The guarantors of the *besa* of the livestock and the shepherd are the Standard-bearers, the Chiefs and the Young Men of the Banners bound by this *besa*.
 
+<div class="note" markdown="1">
+
 Note:
 
 According to the stories that are told by the people of the Mountains of Albania (which we leave aside for now in setting out the various stories), it is clearly evident that "the *besa* of the livestock and the shepherd" is very old, and that it must have been kept before the slender-muzzled one (the gun) began to spit flame.
 
 In some places the *besa* of the livestock and the shepherd is kept even today; e.g. in the Mountains of Gjakova: Nikaj, Mërtur, Gash, Krasniqe and elsewhere. In the Mountains of Dukagjin: Shala, Shosh, Kir, Gjaj, Plan and Toplana. In the Mountains of Puka, of Mirdita, of Thkella, of the Highlands of Lezha and towards Kurbin, although this kind of *besa* is no longer kept today, according to the stories that the Elders of these places have told us, in earlier times these districts too were covered by the *besa* of the livestock and the shepherd.
 
-#### SECTION ONE HUNDRED AND TWENTY-FOUR — Blood.
+</div>
+
+#### SECTION ONE HUNDRED AND TWENTY-FOUR — Blood. {#section-124}
 
 **§ 886.** In the kanun of the Mountains of Albania, all the sons that are born are counted as good, and are not distinguished one from another.
 
@@ -3230,7 +3316,7 @@ In some places the *besa* of the livestock and the shepherd is kept even today; 
 
 **§ 897.** The house of the slain man has no business with the women of the killer, because "A woman and a priest do not fall into blood."
 
-#### SECTION ONE HUNDRED AND TWENTY-FIVE.
+#### SECTION ONE HUNDRED AND TWENTY-FIVE. {#section-125}
 
 "Blood follows the finger."
 
@@ -3240,7 +3326,7 @@ In some places the *besa* of the livestock and the shepherd is kept even today; 
 
 **§ 900.** The later kanun includes the males of the killer's house, down to the infant in the cradle, and the close cousins and nephews, even if they are separated, but for 24 hours, in the heat of the blood; and after 24 hours the house of the slain man would give them sureties.
 
-#### SECTION ONE HUNDRED AND TWENTY-SIX.
+#### SECTION ONE HUNDRED AND TWENTY-SIX. {#section-126}
 
 "Blood for blood stays even."
 
@@ -3260,7 +3346,7 @@ In some places the *besa* of the livestock and the shepherd is kept even today; 
 
 **§ 908.** A wound from the belt upwards carries 3 purses, from the belt downwards 750 grosh.
 
-#### SECTION ONE HUNDRED AND TWENTY-SEVEN.
+#### SECTION ONE HUNDRED AND TWENTY-SEVEN. {#section-127}
 
 "Blood is not for an offence."
 
@@ -3278,11 +3364,15 @@ In some places the *besa* of the livestock and the shepherd is kept even today; 
 
 **§ 915.** If someone climbed on your neck, even though it is two hands for one head, if you killed him, you owe him his blood.
 
+<div class="note" markdown="1">
+
 Note:
 
 914 and 915 are weighed according to the gravity of the offence.
 
-#### SECTION ONE HUNDRED AND TWENTY-EIGHT.
+</div>
+
+#### SECTION ONE HUNDRED AND TWENTY-EIGHT. {#section-128}
 
 "Blood is not turned into a fine."
 
@@ -3294,7 +3384,7 @@ Note:
 
 **§ 919.** For every fine that the house of the slain man incurs, it pays the fine as a fine, but its blood cannot be lost or turned into a fine, even if it be a wretched and forsaken house.
 
-#### SECTION ONE HUNDRED AND TWENTY-NINE — Blood for a Wicked Deed.
+#### SECTION ONE HUNDRED AND TWENTY-NINE — Blood for a Wicked Deed. {#section-129}
 
 **§ 920.** "Those who share body and dishonour together, if they are both killed in the wicked deed, go with their blood unavenged."
 
@@ -3320,7 +3410,7 @@ Note:
 
 **§ 931.** A widow or a maiden who went astray in shame used to be burned alive on a heap of manure. – Or they would put her between two burning piles of wood and make her name her accomplice, or they would let her melt away in terror between two fires. – If they managed to get from her who it was that dishonoured her, they would then surround the accomplice too, and execute them together.
 
-#### SECTION ONE HUNDRED AND THIRTY — Unintentional Killing.
+#### SECTION ONE HUNDRED AND THIRTY — Unintentional Killing. {#section-130}
 
 **§ 932.** An unintentional killing is not pursued with the gun. – The killer pays for the blood and is given sureties.
 
@@ -3336,13 +3426,13 @@ Note:
 
 **§ 938.** An unintentional killing carries no fine.
 
-#### SECTION ONE HUNDRED AND THIRTY-ONE — Killing Under Guarantee.
+#### SECTION ONE HUNDRED AND THIRTY-ONE — Killing Under Guarantee. {#section-131}
 
 **§ 939.** If the house of the killer and the house of the slain man should quarrel between themselves after the blood has been reconciled, the guarantors must enter the flames and not allow their name and their guarantee to be violated.
 
 **§ 940.** If a gun has cracked between them, the Guarantors shall demand satisfaction for their violated guest from the side that started the firing. "Blood goes for blood."
 
-#### SECTION ONE HUNDRED AND THIRTY-TWO — The Gun Pursues the One Who Owes Blood.
+#### SECTION ONE HUNDRED AND THIRTY-TWO — The Gun Pursues the One Who Owes Blood. {#section-132}
 
 **§ 941.** "The gun that starts carries a fine." – "The first gun carries a fine."
 
@@ -3378,7 +3468,7 @@ Note:
 
 **§ 957.** For every killing: 6 purses for the blood, a fine of 100 rams and 1 ox to the Banner, and 500 grosh to the House of Gjomarku of Orosh (for Mirdita).
 
-#### SECTION ONE HUNDRED AND THIRTY-THREE — Whoever Kills Himself Goes with His Blood Unavenged.
+#### SECTION ONE HUNDRED AND THIRTY-THREE — Whoever Kills Himself Goes with His Blood Unavenged. {#section-133}
 
 **§ 958.** If someone has killed himself, his blood goes unavenged.
 
@@ -3394,7 +3484,7 @@ Note:
 
 **§ 964.** If a wife kills her husband, her family fall into blood. (It has happened that the family have executed their daughter who committed this horror.)
 
-#### SECTION ONE HUNDRED AND THIRTY-FOUR — Mediating a Blood.
+#### SECTION ONE HUNDRED AND THIRTY-FOUR — Mediating a Blood. {#section-134}
 
 **§ 965.** A mediator of a blood is the one who exerts himself with the house of the slain man to reconcile the killer with it.
 
@@ -3404,7 +3494,7 @@ Note:
 
 **§ 968.** The shoes of the mediator of a blood are paid by the house of the killer.
 
-#### SECTION ONE HUNDRED AND THIRTY-FIVE — The Reconciliation of a Blood.
+#### SECTION ONE HUNDRED AND THIRTY-FIVE — The Reconciliation of a Blood. {#section-135}
 
 **§ 969.** The reconciliation of a blood is made in two ways: a) through the intervention of well-wishers of the house of the slain man and of the Parish Priest; b) through the coming forward of the Chiefs, of the House of Gjomarku and of the young men of the Banner. – In this case, for every killing the House of Gjomarku of Orosh used to take 500 grosh.
 
@@ -3414,7 +3504,7 @@ Note:
 
 **§ 972.** Until the matter of the blood has been settled, the required Guarantors have come in, and the terms of the blood money have been fixed, the tables of the meal are not laid and the bread is not eaten.
 
-#### SECTION ONE HUNDRED AND THIRTY-SIX — The Guarantors of the Blood.
+#### SECTION ONE HUNDRED AND THIRTY-SIX — The Guarantors of the Blood. {#section-136}
 
 "No one becomes a surety or a guarantor of the *besa* for money."
 
@@ -3426,7 +3516,7 @@ Note:
 
 **§ 976.** The guarantors of the blood have the right to keep in check those for whom they came in, and, if friendly counsel and rebukes do not avail, they have the right to rein them in, even with threats, if they stir.
 
-#### SECTION ONE HUNDRED AND THIRTY-SEVEN — The Guarantors of the Blood Money.
+#### SECTION ONE HUNDRED AND THIRTY-SEVEN — The Guarantors of the Blood Money. {#section-137}
 
 **§ 977.** The guarantors of the blood money are chosen by the house of the slain man.
 
@@ -3438,11 +3528,11 @@ Note:
 
 **§ 981.** The blood money shall be given to the house of the slain man through the hands of the guarantors, and never directly by the killer.
 
-#### SECTION ONE HUNDRED AND THIRTY-EIGHT — The Bread of the Blood.
+#### SECTION ONE HUNDRED AND THIRTY-EIGHT — The Bread of the Blood. {#section-138}
 
 **§ 982.** The bread of the blood is when the mediators of the reconciliation of the blood, with some of the kin, the companions and the well-wishers of the owner of the blood, go to the killer's door for the reconciliation of the blood and eat the bread of the reconciled blood.
 
-#### SECTION ONE HUNDRED AND THIRTY-NINE — The Cross on the Door.
+#### SECTION ONE HUNDRED AND THIRTY-NINE — The Cross on the Door. {#section-139}
 
 **§ 983.** It is kanun, once the reconciliation of the blood is on its way and the meal has been eaten, and the Guarantors both of the blood and of the money have come in, that a cross be made on the killer's door by the owner of the blood.
 
@@ -3454,7 +3544,7 @@ Note:
 
 **§ 987.** The iron – the adze – with which the cross was cut, it is kanun to throw onto the roof of the killer's house.
 
-#### SECTION ONE HUNDRED AND FORTY — Sworn Brotherhood (Drinking Blood).
+#### SECTION ONE HUNDRED AND FORTY — Sworn Brotherhood (Drinking Blood). {#section-140}
 
 **§ 988.** When the hearts of the house of the killer and of the house of the slain man have been reconciled, they drink each other's blood.
 
@@ -3462,9 +3552,9 @@ Note:
 
 **§ 990.** After they have mixed the blood, or after they have shaken it well, they exchange the glasses and, with their hands crossed, they hand them to one another, drinking each other's blood. – Amid congratulations they fire guns, and they become like new brothers of one mother and one father.
 
-## BOOK ELEVEN — THE KANUN OF THE ELDERS
+## BOOK ELEVEN — THE KANUN OF THE ELDERS {#book-11}
 
-#### SECTION ONE HUNDRED AND FORTY-ONE — The Right and Duty of the Elders.
+#### SECTION ONE HUNDRED AND FORTY-ONE — The Right and Duty of the Elders. {#section-141}
 
 **§ 991.** The Elder of the pledge may not ask for the gifts and the fees fixed by the kanun without having settled the matter.
 
@@ -3518,7 +3608,7 @@ Note:
 
 **§ 1016.** If some Elder has been found out to have given his judgment with partiality and against the kanun, merely because he was swayed by the bribes of the opposing side, besides the black face, no one takes him as an Elder any more.
 
-#### SECTION ONE HUNDRED AND FORTY-TWO — Pledges.
+#### SECTION ONE HUNDRED AND FORTY-TWO — Pledges. {#section-142}
 
 **§ 1017.** "A pledge laid down is not taken back."
 
@@ -3554,7 +3644,7 @@ Note:
 
 **§ 1033.** If someone has gone to ask for Elders in the Banner under which he is, he shall take as Elder one of the Chiefs and not one of the commons.
 
-#### SECTION ONE HUNDRED AND FORTY-THREE — Adding Elders.
+#### SECTION ONE HUNDRED AND FORTY-THREE — Adding Elders. {#section-143}
 
 **§ 1034.** "Court over court and Elder over Elder the kanun does not allow."
 
@@ -3576,7 +3666,7 @@ Note:
 
 **§ 1043.** If grave trials or arbitrations arise, their resolution shall be sought at the House of Gjomarku.
 
-#### SECTION ONE HUNDRED AND FORTY-FOUR — The Jury.
+#### SECTION ONE HUNDRED AND FORTY-FOUR — The Jury. {#section-144}
 
 **§ 1044.** *Porota* or jurors, in the language of the kanun, is the name for those persons who are pointed out by the court to swear an oath and to clear someone.
 
@@ -3668,11 +3758,15 @@ d) last of all the jurors not named.
 
 **§ 1078.** All the jurors, however many they are, shall take the oath, resting their hand on the sign of the faith, unless the owner of the goods himself excuses or exempts someone out of respect.
 
+<div class="note" markdown="1">
+
 Note:
 
 In Dukagjin, in the Highlands of Gjakova and in some other districts, they count some of the jury as the "hand of the oath" in the Church, and leave some others "to hear the oath".
 
-#### SECTION ONE HUNDRED AND FORTY-FIVE — The Informer.
+</div>
+
+#### SECTION ONE HUNDRED AND FORTY-FIVE — The Informer. {#section-145}
 
 **§ 1079.** An informer is the one who reveals someone's offence, as for example some hidden theft, or some killing whose author is lost, after the enquiries that he makes.
 
@@ -3698,7 +3792,7 @@ In Dukagjin, in the Highlands of Gjakova and in some other districts, they count
 
 **§ 1090.** An informer found to be lying used to pay for the other's goods in place of the thief. (Dukagjin)
 
-#### SECTION ONE HUNDRED AND FORTY-SIX — The Payment of the Informer.
+#### SECTION ONE HUNDRED AND FORTY-SIX — The Payment of the Informer. {#section-146}
 
 **§ 1091.** The informer is given as shoes:
 
@@ -3734,7 +3828,7 @@ In Dukagjin, in the Highlands of Gjakova and in some other districts, they count
 
 **§ 1093.** "The informer brings out the lost goods." Once the informer has been approved by the examiners, the suspect remains at fault, and shall return the goods to their owner according to the kanun.
 
-#### SECTION ONE HUNDRED AND FORTY-SEVEN — The Examiners of the Informer.
+#### SECTION ONE HUNDRED AND FORTY-SEVEN — The Examiners of the Informer. {#section-147}
 
 **§ 1094.** The examiners are those whose office is to carry out rigorous enquiries, pressing the informer with frequent questions, watching whether he twists in his statements and whether he is accusing someone falsely.
 
@@ -3760,7 +3854,7 @@ In Dukagjin, in the Highlands of Gjakova and in some other districts, they count
 
 **§ 1105.** The examiners shall swear not to reveal the informer during his lifetime, unless he himself wishes to come forward.
 
-#### SECTION ONE HUNDRED AND FORTY-EIGHT — The Men of the Mountains of Albania in Assembly.
+#### SECTION ONE HUNDRED AND FORTY-EIGHT — The Men of the Mountains of Albania in Assembly. {#section-148}
 
 **§ 1106.** The assembly is a gathering of a clan or of clans, with the Chiefs, the Elders, the Senior Elders and the commons or the young men of the land, whose purpose is to debate some question or to bind some *besa*.
 
@@ -3788,7 +3882,7 @@ f) the criers of the clans,
 
 g) the fine-collectors.
 
-#### SECTION ONE HUNDRED AND FORTY-NINE — The Places of Assemblies.
+#### SECTION ONE HUNDRED AND FORTY-NINE — The Places of Assemblies. {#section-149}
 
 **§ 1112.** Gatherings of assemblies are held either in the courtyards of Churches, or among the old ruins of places of worship, or in the heart of the land.
 
@@ -3796,7 +3890,7 @@ g) the fine-collectors.
 
 2\. Lura at the Church in the old village.
 
-3\. Kthella [printed "Thkella"] at the Fig Spring in Perlat.
+3\. Kthella at the Fig Spring in Perlat.
 
 4\. Mati at Lis.
 
@@ -3842,7 +3936,7 @@ g) the fine-collectors.
 
 **§ 1114.** The men of the land sit armed in the assembly.
 
-**§ 1115.** [printed as § 1415] As long as the men of the land are in assembly, no outsider has the right to mingle among them.
+**§ 1115.** As long as the men of the land are in assembly, no outsider has the right to mingle among them.
 
 **§ 1116.** In trials and weighings the Chiefs and the Elders sit by themselves and the commons by themselves.
 
@@ -3864,7 +3958,7 @@ g) the fine-collectors.
 
 **§ 1125.** If someone has fired his weapon at another in the assembly, his house is burned, and the one who turned the weapon is executed by the whole assembly and his blood goes unavenged.
 
-#### SECTION ONE HUNDRED AND FIFTY — The House of Gjon Marku.
+#### SECTION ONE HUNDRED AND FIFTY — The House of Gjon Marku. {#section-150}
 
 **§ 1126.** The House of Gjomarku is the foundation of the kanun.
 
@@ -3906,7 +4000,7 @@ g) the fine-collectors.
 
 **§ 1145.** For offences that call for the firebrand, the *lima* also belongs to this House (just to make a mark). [The word *lima* and the sense are uncertain.]
 
-#### SECTION ONE HUNDRED AND FIFTY-ONE — The Chiefs of the Clans.
+#### SECTION ONE HUNDRED AND FIFTY-ONE — The Chiefs of the Clans. {#section-151}
 
 **§ 1146.** The Chiefs are the heads of the clans.
 
@@ -3938,11 +4032,15 @@ g) the fine-collectors.
 
 **§ 1160.** The commons of the clans owe neither the Chief nor the House of Gjomarku the tithe or tribute.
 
+<div class="note" markdown="1">
+
 Note:
 
 The Chiefs (Standard-bearers) of the Highlands of Gjakova – Nikaj, Mërtur, Gash and Krasniqe – have the right to one turn of water from the commons, besides the one that they have like every house.
 
-#### SECTION ONE HUNDRED AND FIFTY-TWO — The Elders of the Villages.
+</div>
+
+#### SECTION ONE HUNDRED AND FIFTY-TWO — The Elders of the Villages. {#section-152}
 
 **§ 1161.** Each village has the Elders of its clan.
 
@@ -3958,7 +4056,7 @@ The Chiefs (Standard-bearers) of the Highlands of Gjakova – Nikaj, Mërtur, Ga
 
 **§ 1167.** If the village with its Elders has oppressed some clan, the Elder of the oppressed clan has the right to defend it, even with [the help of] the Chiefs of other clans.
 
-#### SECTION ONE HUNDRED AND FIFTY-THREE — The Senior Elders.
+#### SECTION ONE HUNDRED AND FIFTY-THREE — The Senior Elders. {#section-153}
 
 **§ 1168.** The Senior Elders take the side of the commons.
 
@@ -3966,7 +4064,7 @@ The Chiefs (Standard-bearers) of the Highlands of Gjakova – Nikaj, Mërtur, Ga
 
 **§ 1170.** The Senior Elder, together with the commons or the young men of the clans, are the fine-collectors.
 
-#### SECTION ONE HUNDRED AND FIFTY-FOUR — The Fine-Collectors.
+#### SECTION ONE HUNDRED AND FIFTY-FOUR — The Fine-Collectors. {#section-154}
 
 **§ 1171.** Fine-collectors is the name for those who, in the name of the whole assembly, go into the livestock fold of the man who has been fined, to take so many head of rams or oxen, according to the sentence of the court of the Chiefs, the Elders and the commons.
 
@@ -3978,7 +4076,7 @@ The Chiefs (Standard-bearers) of the Highlands of Gjakova – Nikaj, Mërtur, Ga
 
 **§ 1175.** The fine-collectors themselves choose the rams and the oxen for the fine, and the owner of the animals cannot stop them.
 
-#### SECTION ONE HUNDRED AND FIFTY-FIVE — The Voice of the Commons in Trials.
+#### SECTION ONE HUNDRED AND FIFTY-FIVE — The Voice of the Commons in Trials. {#section-155}
 
 **§ 1176.** If the commons do not like the decisions of the Chiefs and the Elders, they have the right not to abide by them.
 
@@ -3986,7 +4084,7 @@ The Chiefs (Standard-bearers) of the Highlands of Gjakova – Nikaj, Mërtur, Ga
 
 **§ 1178.** If the commons have approved the judgment of the Chiefs and the Elders, it is kanun that they cry out with one voice: "The foreign leg, our heads." [The sense of the formula is obscure.]
 
-#### SECTION ONE HUNDRED AND FIFTY-SIX — Proclamation.
+#### SECTION ONE HUNDRED AND FIFTY-SIX — Proclamation. {#section-156}
 
 **§ 1179.** To proclaim, in the language of the kanun, means to separate, to leave behind and to cut off a house, taking away from it every right, favour and honour, both in the village and in the Banner.
 
@@ -4028,7 +4126,7 @@ e) for violence done outside the village or the Banner, if the offender has refu
 
 **§ 1193.** The formula of proclamation is this: "To cut someone off in death and in life." [*per mort e per gjellë*; *gjellë* may also mean "food".] – "To proclaim someone from funeral and wedding and the loan of flour."
 
-#### SECTION ONE HUNDRED AND FIFTY-SEVEN — Burning, Laying Waste and Execution.
+#### SECTION ONE HUNDRED AND FIFTY-SEVEN — Burning, Laying Waste and Execution. {#section-157}
 
 **§ 1194.** There is burned, laid waste, executed by the whole village and driven out of the land with everything he has:
 
@@ -4060,13 +4158,17 @@ i) the clan that does not take the lead against the offenders is fined and procl
 
 **§ 1199.** If he has refused to make the mark with fire, and no one else of the offender's house will do so, the Elder of the clan shall tell someone who is closest to the offender, and his duty is to take the firebrand and the axe and to lead the village and the Banner in the destruction, after which the whole village and Banner shall set their hand to that destruction.
 
+<div class="note" markdown="1">
+
 Note
 
 The burning of the house for every killing did not exist: this matter came into practice late. – The Turkish government put it into practice, and the arrogance of some powerful houses eagerly welcomed this matter. – The seeking of the blood from the whole house of the killer did not exist; this is borne out by the word of the kanun "Blood follows the finger"; but, to take the blood more easily, they included all the males of the house, down to those of separate hearths, in those 24 hours. In some places they also put into practice the "PROCLAMATION" of the blood, taking in the whole brotherhood. For every killing the house of the killer used to pay a fine, give bread to the young men of the Banner, and in Mirdita the killer used to pay 500 grosh to the House of Gjomarku.
 
 The greed for money of some Chiefs and young men of the Banner, in the company of the Elders, increased and enlarged some matters, just to fill their purse and their belly.
 
-#### SECTION ONE HUNDRED AND FIFTY-EIGHT — The Messenger.
+</div>
+
+#### SECTION ONE HUNDRED AND FIFTY-EIGHT — The Messenger. {#section-158}
 
 **§ 1200.** "The messenger commits no offence and is not held answerable."
 
@@ -4100,7 +4202,7 @@ c) from one Banner to another.
 
 **§ 1212.** If someone of his own village kills the messenger, the killer is executed by the whole village.
 
-#### SECTION ONE HUNDRED AND FIFTY-NINE — The Crier.
+#### SECTION ONE HUNDRED AND FIFTY-NINE — The Crier. {#section-159}
 
 **§ 1213.** A crier or announcer is the one who makes known and proclaims the orders of the Chief of the clan, either from door to door, or from a calling-place fixed by the Chief, the Elders and the commons.
 
@@ -4118,13 +4220,9 @@ c) from one Banner to another.
 
 **§ 1220.** Even if the crier happens to be busy with the offices of the clan or of the village, the people of his house shall go out to the work of the village.
 
-## BOOK TWELVE — RELEASES AND EXEMPTIONS
+## BOOK TWELVE — RELEASES AND EXEMPTIONS {#book-12}
 
-### CHAPTER TWENTY-THREE — Those Who Share in the Exemptions.
-
-### CHAPTER TWENTY-FOUR — Death.
-
-[The two chapter headings stand together in the source; the paragraphs of Chapter Twenty-Three follow first.]
+### CHAPTER TWENTY-THREE — Those Who Share in the Exemptions. {#chapter-23}
 
 **§ 1221.** The Kanun of the Mountains of Albania releases and exempts: I. The Church:
 
@@ -4181,6 +4279,8 @@ h) her mediation is not to be violated. [The source skips item g.]
 **§ 1229.** – IX. Death:
 
 Those who have a death in the house are exempted from all work, both for the village and for the Banner, and also from the channelling of the water of the mills. They have this right from the kanun for one week of days in a row. – When the week is completed, they shall answer for their duties both towards the village and towards the Banner, even if they are a Head or of the House of Gjomarku.
+
+### CHAPTER TWENTY-FOUR — Death. {#chapter-24}
 
 **§ 1230.** The Kanun of the Mountains does not allow trouble upon trouble to be caused to anyone.
 
@@ -4249,5 +4349,3 @@ Those who have a death in the house are exempted from all work, both for the vil
 **§ 1262.** If the parents have not the means to lay their daughter in the ground, the brotherhood and the clan shall lend to them.
 
 **§ 1263.** The costs and the loans of the funeral meals shall be paid at the end of the month, once the dead person has been laid in the ground, and cannot be put off beyond that.
-
-Published at www.lezha.net

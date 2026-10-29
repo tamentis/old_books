@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="{lang}">
+  <head>
+    <meta charset="utf-8" />
+    <title>{title}</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/water.css@2/out/light.css"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style type="text/css">
+      body {
+        max-width: 760px;
+      }
+
+      nav.languages {
+        text-align: right;
+        font-size: 0.9em;
+      }
+
+      nav.languages a,
+      nav.languages strong {
+        margin-left: 0.8em;
+      }
+
+      h2 {
+        margin-top: 3em;
+        text-align: center;
+      }
+
+      h3 {
+        margin-top: 2em;
+        text-align: center;
+      }
+
+      h4 {
+        margin-top: 2em;
+      }
+
+      p.para {
+        margin-top: 1.2em;
+      }
+
+      a.pnum {
+        font-weight: bold;
+        color: inherit;
+        text-decoration: none;
+      }
+
+      a.pnum:hover {
+        text-decoration: underline;
+      }
+
+      p.item {
+        padding-left: 2em;
+        text-indent: -1.5em;
+        margin: 0.4em 0;
+      }
+
+      p.maxim {
+        font-style: italic;
+        text-align: center;
+        margin: 1em 2em;
+      }
+
+      div.note {
+        border-left: 3px solid #ccc;
+        padding-left: 1em;
+        margin: 1.5em 0;
+        font-size: 0.95em;
+      }
+
+      blockquote {
+        font-size: 0.95em;
+      }
+
+      nav.toc details {
+        margin: 0.3em 0;
+      }
+
+      nav.toc ul {
+        margin: 0.2em 0;
+      }
+
+      img.cover {
+        display: block;
+        margin: 1em auto;
+        max-width: 240px;
+        width: 60%;
+        height: auto;
+      }
+
+      :target {
+        background: #fff6d5;
+      }
+    </style>
+
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-Y0W56JWEJZ"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+
+      gtag('config', 'G-Y0W56JWEJZ');
+    </script>
+  </head>
+  <body>
+{languages}
+{content}
+    <script>
+      // Keep the reader at the same paragraph when switching language.
+      document.querySelectorAll('nav.languages a').forEach(function (a) {
+        a.addEventListener('click', function () {
+          a.href = a.href.split('#')[0] + location.hash;
+        });
+      });
+    </script>
+  </body>
+</html>

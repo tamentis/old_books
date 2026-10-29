@@ -4,6 +4,16 @@ Old books I found in auctions or antiques that I couldn't find online in a searc
 
 Deployed to: [old-books.janin.com](https://old-books.janin.com/)
 
+## Deployment
+
+The site is deployed by Cloudflare Workers, which builds it from git: every push to `main` runs `make dist` on Cloudflare and publishes the `dist/` folder. There is nothing to upload by hand, and the build logs are in the Cloudflare dashboard.
+
+The build machine has no `venv`, only a `python` with the packages from `requirements.txt`, so the Makefiles must call plain `python`, never `venv/bin/python`. To reproduce the build locally:
+
+    make venv
+    source venv/bin/activate
+    make dist
+
 ## Process for adding a new book
 
 Make sure you have a `.env` with `OPENAI_API_KEY` defined and source it.

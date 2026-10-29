@@ -1,4 +1,4 @@
-PYTHON ?= ../venv/bin/python
+PYTHON ?= python
 
 all: index.html sq/index.html en/index.html fr/index.html
 

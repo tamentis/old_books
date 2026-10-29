@@ -1,3 +1,5 @@
+.PHONY: all dist venv clean
+
 all:
 	@echo "Pick a target"
 

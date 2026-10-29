@@ -18,7 +18,7 @@ Teksti është ai i Gjeçovit, siç u botua në Shkodër në vitin 1933. Ai vjen
 
 Ndarjet ndjekin origjinalin: Libri, Artikulli, Kreu, Nyja. Paragrafët ruajnë numrat e tyre §, që janë të njëjtë në çdo gjuhë: një lidhje drejt `#p-601` të çon te § 601 në të gjitha versionet. Shënimet e vetë Gjeçovit (*Oroe*, *V.O.*) janë të veçuara me një vijë në anë. Fjalët në [kllapa katrore] janë shtuar nga redaktori.
 
-Përkthimet në anglisht dhe në frëngjisht janë bërë me Claude, një model i inteligjencës artificiale i Anthropic, drejtpërdrejt nga shqipja. Ato nuk janë krahasuar me përkthimet e botuara (Leonard Fox-i në anglisht, Christian Gut-i në frëngjisht), dhe duhen marrë si versione pune.
+Përkthimet në anglisht dhe në frëngjisht janë bërë me Claude, një model i inteligjencës artificiale i Anthropic, drejtpërdrejt nga shqipja. Ato nuk janë krahasuar me përkthimet e botuara (Leonard Fox-i në anglisht, Christian Gut-i në frëngjisht). Përkthimet janë ende në punim e sipër.
 
 **Korrigjime të burimit.** Gabimet e mëposhtme të tekstit të vitit 1933 ose të transkriptimit të tij janë korrigjuar:
 

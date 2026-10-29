@@ -16,7 +16,7 @@ De ces valeurs naît la vendetta : le sang versé appelle le sang, parfois sur p
 
 Le texte albanais est celui de Gjeçovi, tel qu'il a été publié à Shkodër en 1933. Il provient d'un PDF mis en ligne sur www.lezha.net, lui-même une transcription fautive de cette édition. La langue est le guègue (albanais du nord) dans l'orthographe ancienne de l'époque. Gjeçovi est mort en 1929 et le texte est dans le domaine public.
 
-**À propos de la traduction.** La traduction française a été faite avec Claude, un modèle d'intelligence artificielle d'Anthropic, directement depuis l'albanais, en s'aidant de la traduction anglaise publiée sur ce site. Elle n'a été comparée à aucune traduction publiée, en particulier pas à celle de Christian Gut. C'est une version de travail soignée : certains mots du guègue restent non identifiés, et ces passages sont signalés.
+**À propos de la traduction.** La traduction française a été faite avec Claude, un modèle d'intelligence artificielle d'Anthropic, directement depuis l'albanais, en s'aidant de la traduction anglaise publiée sur ce site. Elle n'a été comparée à aucune traduction publiée, en particulier pas à celle de Christian Gut. Cette traduction est un travail en cours : certains mots du guègue restent non identifiés, et ces passages sont signalés.
 
 Conventions :
 

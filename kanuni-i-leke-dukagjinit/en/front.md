@@ -16,7 +16,7 @@ From these values comes the blood feud: blood that is shed calls for blood, some
 
 The Albanian text is Gjeçovi's, as published in Shkodër in 1933. It comes from a PDF published on www.lezha.net, itself a transcription of that edition with many errors. The Albanian is in the archaic northern (Gheg) spelling of the time, and has not been modernised. Gjeçovi died in 1929, and the text is in the public domain.
 
-**About the translation.** The English translation was made with Claude, an AI model by Anthropic, directly from the Albanian. The whole text was then reviewed against the Albanian a second time, book by book, and about seventy corrections were made. It has not been compared with Leonard Fox's published translation (*The Code of Lekë Dukagjini*, 1989), which is the standard English version and remains under copyright. A French translation, made the same way from the Albanian, is also available. Treat both as careful working drafts: some words of the Gheg are still unidentified, and these places are marked.
+**About the translation.** The English translation was made with Claude, an AI model by Anthropic, directly from the Albanian. The whole text was then reviewed against the Albanian a second time, book by book, and about seventy corrections were made. It has not been compared with Leonard Fox's published translation (*The Code of Lekë Dukagjini*, 1989), which is the standard English version and remains under copyright. A French translation, made the same way from the Albanian, is also available. Both translations are a work in progress: some words of the Gheg are still unidentified, and these places are marked.
 
 Conventions:
 
